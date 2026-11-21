@@ -14,7 +14,7 @@
       "license_file": "assets/licenses/LGPL-2.1.txt",
       "source_url": "https://github.com/Softcatala/catalan-dict-tools",
       "version": "revisió b00fcd9 del 22/10/2026",
-      "note": "Les dades derivades (llista de paraules acceptades, llista de paraules poc freqüents de «Has après» i llista de paraules daurades) es distribueixen sota la mateixa llicència i es poden regenerar amb les eines del projecte.",
+      "note": "Les dades derivades (llista de paraules acceptades, llista de paraules poc freqüents de «Has après» i llista de paraules daurades) es distribueixen sota la mateixa llicència. Les eines per regenerar-les i les dades derivades són públiques a https://github.com/tonimp/trena-lexic.",
       "assets": [
         "assets/lexicon/accepted.tsv",
         "assets/lexicon/apres.tsv",
@@ -44,6 +44,7 @@
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ca",
       "license_file": "assets/licenses/CC-BY-SA-4.0.txt",
+      "source_url": "https://github.com/tonimp/trena-lexic",
       "version": "1.140 pistes",
       "note": "Són definicions breves de redacció original, escrites sense copiar cap diccionari i revisades amb els mateixos filtres que la resta de pistes. Inclouen també les 211 pistes dels reptes de temporada i les 207 de les temàtiques. Es comparteixen sota la mateixa llicència que el fitxer de pistes.",
       "assets": [

@@ -202,6 +202,10 @@ def season_clue_count(out_dir: Path | None, sub: str = SEASON_CLUES_DIR) -> int:
     return sum(len(tsv.read_tsv(out_dir / name)[1]) for name in _clue_files(out_dir, sub))
 
 
+# Repositori públic de les dades lèxiques derivades (LGPL-2.1+; CHECKLIST de botigues §3).
+LEXIC_REPO_URL = 'https://github.com/tonimp/trena-lexic'
+
+
 def credits(lock: S.Lock, out_dir: Path | None = None) -> dict:
     sc, wk = lock.softcatala, lock.wiktionary
     d = wk.dump_date
@@ -225,7 +229,8 @@ def credits(lock: S.Lock, out_dir: Path | None = None) -> dict:
                 'note': 'Les dades derivades (llista de paraules acceptades, llista de paraules '
                         'poc freqüents de «Has après» i llista de paraules daurades) es '
                         'distribueixen sota la mateixa '
-                        'llicència i es poden regenerar amb les eines del projecte.',
+                        'llicència. Les eines per regenerar-les i les dades derivades són '
+                        f'públiques a {LEXIC_REPO_URL}.',
                 # Fitxers LGPL empaquetats (has-apres: apres.tsv; paraules-daurades: daurades.tsv;
                 # coberts pel test de crèdits).
                 'assets': ['assets/lexicon/accepted.tsv', f'assets/lexicon/{APRES}',
@@ -253,6 +258,7 @@ def credits(lock: S.Lock, out_dir: Path | None = None) -> dict:
                 'license': 'CC BY-SA 4.0',
                 'license_url': 'https://creativecommons.org/licenses/by-sa/4.0/deed.ca',
                 'license_file': 'assets/licenses/CC-BY-SA-4.0.txt',
+                'source_url': LEXIC_REPO_URL,
                 'version': f'{catalan_int(authored_count(out_dir))} pistes',
                 'note': 'Són definicions breves de redacció original, escrites sense copiar cap '
                         'diccionari i revisades amb els mateixos filtres que la resta de pistes. '

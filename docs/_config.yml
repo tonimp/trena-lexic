@@ -1,0 +1,12 @@
+# Lloc de GitHub Pages del repositori públic (carpeta docs/): pàgina de suport i política de
+# privadesa de Trena. Plantilla pròpia en català (sense tema extern).
+title: Trena
+lang: ca
+markdown: kramdown
+exclude:
+  - LEXIC.md
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
