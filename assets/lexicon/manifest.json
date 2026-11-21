@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "normalization_version": 1,
+  "sources": {
+    "softcatala": {
+      "name": "Softcatalà catalan-dict-tools",
+      "url": "https://github.com/Softcatala/catalan-dict-tools.git",
+      "commit": "b00fcd9503cf290d5b4ef44c873b65667873593a",
+      "commit_date": "2026-10-22T20:08:17+02:00",
+      "license": "GPL-2.0-or-later OR LGPL-2.1-or-later",
+      "copyright": [
+        "Copyright (C) 2013- Jaume Ortolà",
+        "Copyright (C) 2002-2008 Joan Moratinos"
+      ]
+    },
+    "viquidiccionari": {
+      "name": "Viquidiccionari (cawiktionary)",
+      "url": "https://dumps.wikimedia.org/cawiktionary/20261001/cawiktionary-20261001-pages-articles.xml.bz2",
+      "dump_date": "20261001",
+      "sha256": "70bbc80d1471f6f7369eefdfae6a3527279a0dd5f6ad22568fbf536adfe9c4e9",
+      "license": "CC-BY-SA-4.0"
+    }
+  },
+  "files": {
+    "accepted.tsv": {
+      "sha256": "fba1cae056d0119ee2a4e9a85fa38301270485b43782e3b39f86145304ace447",
+      "bytes": 3071168,
+      "lines": 236875,
+      "license": "LGPL-2.1-or-later",
+      "packaged": true
+    },
+    "apres.tsv": {
+      "sha256": "d386bdb175834f87e3e0df6febd212feb1da337a5ec34417934a537c56406b57",
+      "bytes": 10193,
+      "lines": 335,
+      "license": "LGPL-2.1-or-later",
+      "packaged": true
+    },
+    "blacklist.tsv": {
+      "sha256": "2c3c029c0b2a4dd4a99943e9b15812af51c3ba3dbfabff2a082ca7d6c9da6b03",
+      "bytes": 835669,
+      "lines": 6739,
+      "license": "LGPL-2.1-or-later",
+      "packaged": false
+    },
+    "clues.tsv": {
+      "sha256": "25f2c14e84ba21937b4fcd73d68c273a9ebc4465932654959190c58f49726bfd",
+      "bytes": 1103935,
+      "lines": 14145,
+      "license": "CC-BY-SA-4.0",
+      "packaged": true
+    },
+    "daurades.tsv": {
+      "sha256": "b875e9eacdd0316bfe6925dd7c404cc1711e8bd0842d172bde2f396aa0f8e73c",
+      "bytes": 10842,
+      "lines": 446,
+      "license": "LGPL-2.1-or-later",
+      "packaged": true
+    },
+    "seasons/nadal-clues.tsv": {
+      "sha256": "64901c9e8fba9aa18102ffe1eff78a458a0de8960af83058a935758e719ceeb1",
+      "bytes": 10072,
+      "lines": 129,
+      "license": "CC-BY-SA-4.0",
+      "packaged": true
+    },
+    "seasons/santjordi-clues.tsv": {
+      "sha256": "0693d0236bd9c87faa892a6c2402dd02c3d908f86d1d9abbffd2d06c806dfb85",
+      "bytes": 6727,
+      "lines": 84,
+      "license": "CC-BY-SA-4.0",
+      "packaged": true
+    },
+    "solutions.tsv": {
+      "sha256": "4ef867e6dfb9ffb17052958112fa00688e28d4bffc3313b85995be773d6f8a1c",
+      "bytes": 2263633,
+      "lines": 39988,
+      "license": "LGPL-2.1-or-later",
+      "packaged": false
+    },
+    "themes/animals-clues.tsv": {
+      "sha256": "e0a59caa854d1c961afeca1c9c4fe6f5b5ea9f75414194dc3e50f14ef2bcab71",
+      "bytes": 2091,
+      "lines": 27,
+      "license": "CC-BY-SA-4.0",
+      "packaged": true
+    },
+    "themes/bosc-clues.tsv": {
+      "sha256": "a3de595acf2c0ccdf7bdc9e0a1422eb2264215c4f05ce28c33dd03f3684c7071",
+      "bytes": 2504,
+      "lines": 33,
+      "license": "CC-BY-SA-4.0",
+      "packaged": true
+    },
+    "themes/casa-clues.tsv": {
+      "sha256": "26e81fcc7801ac916dd4edadbe586b111b848c418312867adc6fb5645cae1729",
+      "bytes": 1158,
+      "lines": 14,
+      "license": "CC-BY-SA-4.0",
+      "packaged": true
+    },
+    "themes/cuina-clues.tsv": {
+      "sha256": "e7306049666c62aa50e682d49ce455070c69fc8bc1574b1ffb50d0b78baf5349",
+      "bytes": 3189,
+      "lines": 37,
+      "license": "CC-BY-SA-4.0",
+      "packaged": true
+    },
+    "themes/hort-clues.tsv": {
+      "sha256": "fa89c69a455dd2e2d747bca26c9a0607bfc2dd96bceebe0ef62812f54aa2904f",
+      "bytes": 1968,
+      "lines": 22,
+      "license": "CC-BY-SA-4.0",
+      "packaged": true
+    },
+    "themes/mar-clues.tsv": {
+      "sha256": "32cd7c7d0359dca2250525ffa7759afc4a2df3d1616afb48c5822f314061665b",
+      "bytes": 2781,
+      "lines": 36,
+      "license": "CC-BY-SA-4.0",
+      "packaged": true
+    },
+    "themes/musica-clues.tsv": {
+      "sha256": "26b6609640378da5fd37b87957ef54676c76b57938754f879e41ae2102639162",
+      "bytes": 2144,
+      "lines": 27,
+      "license": "CC-BY-SA-4.0",
+      "packaged": true
+    },
+    "themes/oficis-clues.tsv": {
+      "sha256": "c1ac49392a77149316b8b62306978ceb9f75d19fd6e97f6e0dd369474de03908",
+      "bytes": 1568,
+      "lines": 19,
+      "license": "CC-BY-SA-4.0",
+      "packaged": true
+    }
+  },
+  "counts": {
+    "accepted_keys": 236875,
+    "accepted_forms": 262393,
+    "solutions": 39987,
+    "solutions_by_band": {
+      "1": 5000,
+      "2": 6999,
+      "3": 7994,
+      "4": 4998,
+      "5": 14996
+    },
+    "blacklist_forms": 6738,
+    "blacklist_by_level": {
+      "absolute": 1977,
+      "sensitive": 4761
+    },
+    "clues": 14144,
+    "clues_by_band": {
+      "1": 3757,
+      "2": 3417,
+      "3": 2799,
+      "4": 1406,
+      "5": 2765
+    },
+    "apres": 334,
+    "daurades": 445
+  },
+  "lexicon_fingerprint": "c7284d824dfcdbb4fda15e675eac5dcd0fbec97e9833980be6d2e99cff571bc4"
+}

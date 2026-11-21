@@ -1,0 +1,16 @@
+SET UTF-8
+FLAG long
+FORBIDDENWORD ZZ
+
+SFX _E Y 3
+SFX _E 0 s [^ans]
+SFX _E a es [^cçgju]a
+SFX _E 0 os [sx][ct]
+
+SFX _F Y 3
+SFX _F 0 a [^eosxç]
+SFX _F 0 s [^asçx]
+SFX _F 0 es [^aeocçgsux]
+
+SFX _M Y 1
+SFX _M 0 os s

@@ -1,0 +1,453 @@
+form	action	value	reason
+# Correccions manuals de pistes (vegeu docs/LEXIC.md, «Pistes»). Les pistes reescrites
+# continuen derivant del Viquidiccionari (CC BY-SA 4.0, amb indicació de canvis).
+# replace: pista reescrita · sense: número d'accepció de la pàgina · drop: sense pista
+# lemma_only: la pista del lema no es reutilitza per a les formes flexionades.
+absolut	replace	Que no té restriccions ni condicions	accepció confusa
+agut	replace	Que acaba en punta o en tall molt prim	l'accepció triada (peix) és poc representativa
+ambició	replace	Ànsia per tenir reconeixement social, riquesa, poder o fama	QA D5: faltava una coma
+armat	replace	Equipat per combatre	l'accepció triada (personatge de Setmana Santa) és poc representativa
+arrestar	replace	Detenir legalment per part de l'autoritat per sospita d'una falta o delicte	QA D5: «per par» -> «per part»
+arrufar	replace	Fer un gest de disgust amb el nas o les celles	accepció poc representativa
+assolir	replace	Aconseguir allò que es pretenia	accepció poc representativa
+bacona	drop		QA iteració 2: l'única accepció aplicable al femení és despectiva
+barri	replace	Cadascuna de les parts en què es divideix una ciutat	accepció poc representativa
+blanca	replace	(femení) Del color de la neu o de la llet	accepció poc representativa (moneda)
+bol	replace	Recipient semiesfèric per a menjar o beure	accepció poc representativa
+brillant	replace	Que resplendeix, que llueix molt	accepció poc representativa
+broma	replace	Cosa que es diu o es fa per fer riure	accepció poc representativa
+brut	replace	Que no és net, que té taques o pols	accepció poc representativa
+butlla	replace	Document oficial emès pel papa	majúscula incorrecta
+béns	replace	(plural) Conjunt de coses que posseeix algú, patrimoni	la pista era d'un altre lema (nota escolar)
+cafè	replace	Beguda estimulant que es pren sovint després de dinar	accepció poc representativa
+cala	replace	Entrant petit del mar a la costa	accepció poc representativa
+calamarsa	replace	Precipitació de grans petits de glaç	errada: faltava «de»
+calma	replace	Estat de tranquil·litat, sense vent ni agitació	accepció poc representativa
+captar	replace	Percebre o copsar alguna cosa	accepció poc representativa
+carnet	replace	Document que acredita la identitat o una autorització	accepció poc representativa
+carrera	replace	Estudis per obtenir un títol que permet exercir una professió	QA D5: «Ruta marítima» és una accepció poc representativa
+caràcter	replace	Manera de ser pròpia d'una persona	accepció poc representativa
+caràcters	replace	(plural) Signes gràfics, com les lletres i els números	pista pròpia del plural
+caçadora	replace	Gec esportiu que cobreix fins a la cintura	errada: «fins la»
+cementiri	replace	Lloc on s'enterren els morts	accepció poc representativa
+clar	replace	Que té molta llum, o que es veu o s'entén bé	accepció poc representativa
+clínica	replace	Establiment sanitari on s'atenen malalts	accepció poc representativa
+comissari	replace	Delegat amb autoritat, sovint cap d'un cos de policia	accepció poc representativa
+comissió	replace	Grup de persones encarregades d'un afer	accepció poc representativa
+compromís	replace	Obligació contreta per un acord o una paraula donada	accepció poc representativa
+comuna	replace	(femení) Que és de tots o de molts	accepció poc representativa i escatològica
+concert	replace	Actuació musical davant d'un públic	accepció poc representativa
+conductor	replace	Persona que porta el volant d'un vehicle	accepció poc representativa
+coral·lins	drop		la pista no correspon al mot
+cors	replace	(plural) Òrgans que bombegen la sang	la pista era d'un altre mot (cors, campanya naval)
+creu	replace	Figura formada per dues línies que es tallen perpendicularment	accepció poc representativa
+daurat	replace	Del color de l'or, o recobert d'or	accepció poc representativa
+declarar	replace	Manifestar o fer saber públicament alguna cosa	accepció poc representativa
+dedicar	replace	Destinar alguna cosa a una persona o a una finalitat	accepció poc representativa
+defecte	replace	Imperfecció o falta d'una cosa	accepció confusa
+deixalles	replace	(plural) Residus, restes que es llencen	accepció poc representativa
+delicat	replace	Fi, suau o fàcil de fer malbé	accepció confusa
+dissabte	replace	Sisè dia de la setmana	pista amb dues frases
+diu	drop		la forma és sobretot verbal; la pista (dispositiu intrauterí) confon
+dius	drop		la pista (dispositiu intrauterí) confon
+diàleg	replace	Conversa entre dues o més persones	errada: «ens» -> «entre»
+dolent	replace	Que no és bo	accepció poc representativa
+duodè	replace	Primera part de l'intestí prim, des de l'estómac fins al jejú	errada: «fins el»
+dòlar	replace	Moneda dels Estats Units d'Amèrica i d'altres països	cometes
+esclava	replace	(femení) Persona sotmesa al domini d'una altra i sense llibertat	accepció poc representativa
+escolar	replace	Infant que va a estudi, alumne	accepció poc representativa
+escrita	replace	(femení) Representat amb lletres sobre paper	la pista era d'un altre mot (peix)
+escrites	replace	(femení plural) Representat amb lletres sobre paper	la pista era d'un altre mot (peix)
+esfondrar	replace	Destruir, fer caure fins al fons	errada: «fins el»
+esment	sense	3	QA D5: «Comunicació d'una notícia» és poc representativa
+esponera	drop		accepció poc representativa
+esquivar	replace	Evitar amb habilitat un cop o un obstacle	accepció poc representativa
+estable	replace	Que no canvia, que es manté ferm	accepció poc representativa
+estimar	replace	Sentir afecte o amor per algú	accepció poc representativa
+estranger	replace	Persona d'un altre país	accepció poc representativa
+factor	replace	Element que contribueix a produir un resultat	accepció poc representativa
+fanàtic	replace	Que defensa una idea o una causa amb passió desmesurada	accepció poc representativa
+fas	drop		la forma és sobretot verbal
+fidel	replace	Que és lleial, que no traeix	accepció poc representativa
+flama	replace	Part lluminosa del foc	la pista era d'un altre mot (cardenal)
+fort	replace	Que té molta energia física, robust	accepció poc representativa
+franc	replace	Sincer, que diu les coses tal com les pensa	accepció poc representativa
+governar	replace	Dirigir un país o una col·lectivitat	accepció poc representativa
+gris	replace	Color entre el blanc i el negre	accepció poc representativa
+gros	replace	De mida gran	accepció poc representativa
+grossa	replace	(femení) Que ocupa molt d’espai, voluminós	QA ampliacio-pistes: duplicat de «gros»
+grosses	replace	(femení plural) De mida gran	accepció poc representativa
+guarda	replace	Persona encarregada de vigilar i protegir alguna cosa	accepció poc representativa
+gòtic	replace	Estil artístic europeu entre el segle XII i el Renaixement	errada: «els segle»
+honor	replace	Qualitat moral de qui obra amb dignitat i rectitud	QA D5: l'accepció 1 és confusa
+humor	replace	Capacitat de veure el costat còmic de les coses	accepció poc representativa
+hutus	replace	(plural) Grup ètnic africà de Ruanda i Burundi	errada: «Rwuanda»
+hàbit	replace	Costum adquirit per la repetició d'un acte	accepció poc representativa
+indústria	replace	Activitat econòmica de transformació de primeres matèries	accepció poc representativa
+infància	replace	Període de la vida des del naixement fins a la pubertat	QA D5: «fins la» -> «fins a la»
+innata	replace	(femení) Que es té des del naixement	accepció confusa
+instal·lar	replace	Col·locar un aparell o un servei en un lloc perquè funcioni	accepció poc representativa
+joies	replace	(plural) Objectes preciosos d'or, plata o pedres fines	pista pròpia del plural
+jovençana	replace	(femení) Noia de poca edat	errada de gènere
+jurat	replace	Grup de persones que jutgen o qualifiquen en un concurs o un judici	accepció poc representativa
+just	replace	Que actua amb equitat i rectitud	accepció poc representativa
+lateral	replace	Situat al costat d'alguna cosa	accepció poc representativa
+lent	replace	Que es mou o actua a poc a poc	accepció poc representativa
+les	drop		la forma és sobretot un article; la pista confon
+lletra	replace	Signe gràfic que representa un so de la llengua	accepció poc representativa
+lleure	replace	Temps lliure per a l'oci	la pista era d'un verb
+lligams	replace	Vincles que uneixen persones o coses	accepció poc representativa
+llista	replace	Sèrie de noms o elements escrits un sota l'altre	accepció poc representativa
+mans	replace	(plural) Extremitats del braç, amb cinc dits	la pista era d'un altre mot (mans, dòcil)
+maoris	replace	(plural) Persona del poble natiu de Nova Zelanda	faltava «de»
+marc	replace	Peça que envolta una porta, una finestra o un quadre	accepció poc representativa
+marcit	replace	Que ha perdut la frescor, pansit	accepció poc representativa
+marxar	replace	Anar-se'n d'un lloc	accepció poc representativa
+mateixa	replace	(femení) Idèntic, no pas un altre	la pista era d'un altre mot (dansa)
+mateixes	replace	(femení plural) Idèntic, no pas un altre	la pista era d'un altre mot (dansa)
+mena	replace	Classe, tipus	accepció poc representativa
+moll	replace	Construcció d'un port per a l'atracada dels vaixells	accepció poc representativa
+mortes	replace	(femení plural) Que no viuen	la pista corresponia al nom «mort»
+negatiu	replace	Que no és positiu; contrari, desfavorable	accepció poc representativa
+negre	replace	Color fosc com el del carbó	accepció poc representativa i sensible
+nevera	replace	Aparell elèctric per conservar aliments en fred	accepció poc representativa
+nos	drop		la forma és sobretot un pronom; la pista confon
+observar	replace	Mirar amb atenció	accepció poc representativa
+oncologia	replace	Part de la medicina que tracta dels tumors	errada: «del tumors»
+oposat	replace	Situat davant d'una altra cosa, contrari	QA iteració 2 (m4): definició de verb per a un adjectiu
+oïda	replace	Sentit que permet percebre els sons	accepció poc representativa
+pacífic	replace	Que estima la pau i rebutja la violència	accepció poc representativa (moneda)
+pel·lícula	replace	Obra cinematogràfica	accepció poc representativa
+però	replace	Conjunció que introdueix una objecció o una restricció	QA iteració 2 (m4): definició confusa
+pic	replace	Cim agut d'una muntanya	accepció poc representativa
+piscina	replace	Dipòsit artificial d'aigua per nedar-hi	accepció poc representativa
+pissarra	replace	Superfície fosca on s'escriu amb guix	accepció poc representativa
+pla	replace	Terreny extens i sense desnivells	accepció poc representativa
+plans	replace	(plural) Projectes o intencions de fer alguna cosa	accepció poc representativa
+ple	replace	Que no hi cap res més	accepció poc representativa
+portar	replace	Dur alguna cosa d'un lloc a un altre	accepció poc representativa
+premsa	replace	Conjunt de diaris i publicacions periòdiques	accepció poc representativa
+prestigi	replace	Bona fama i reputació que inspira respecte	accepció poc representativa
+principal	replace	El més important d'un conjunt	accepció poc representativa
+produir	replace	Fer, crear o fabricar alguna cosa	accepció poc representativa
+protestar	replace	Mostrar disconformitat o queixa	accepció poc representativa
+pues	replace	(plural) Punxa, pal prim i punxegut	accepció poc representativa
+quadrada	replace	(femení) Que té quatre costats iguals i quatre angles rectes	accepció poc representativa
+quart	replace	Quinze minuts d'una hora	accepció poc representativa
+rambla	replace	Passeig ample amb arbres al mig d'una ciutat	accepció poc representativa
+ras	replace	Pla, llis, sense relleus	accepció poc representativa
+real	replace	Que existeix de veritat	accepció poc representativa
+recte	replace	Que no fa corbes ni angles	accepció poc representativa
+recurs	replace	Mitjà que es fa servir per aconseguir un objectiu	accepció poc representativa
+reduir	replace	Fer més petit o menor	accepció poc representativa
+regalar	replace	Donar alguna cosa sense rebre res a canvi	accepció poc representativa
+reina	replace	Sobirana d'un regne o esposa del monarca	accepció poc representativa
+resoldre	replace	Trobar la solució d'un problema	accepció poc representativa
+revolució	replace	Canvi profund i sovint violent d'un sistema polític	accepció poc representativa
+rodona	replace	(femení) Que té forma de cercle o d'esfera	accepció poc representativa
+roges	replace	(femení plural) Del color de la sang o del foc	QA iteració 2: el sentit polític no és el principal del femení
+roja	replace	(femení) Del color de la sang o del foc	QA iteració 2: el sentit polític no és el principal del femení
+romana	drop		accepció poc representativa i difícil de reescriure sense revelar l'arrel
+rossa	replace	(femení) De cabells de color clar, entre el groc i el daurat	accepció poc representativa
+saga	replace	Narració llegendària d'una família o d'un heroi	accepció poc representativa
+sahrauí	replace	Relatiu o pertanyent al Sàhara Occidental	faltava l'article
+salvar	replace	Treure algú d'un perill	accepció poc representativa
+sec	replace	Que no té humitat	accepció poc representativa
+sector	replace	Part d'un conjunt o d'una activitat econòmica	accepció poc representativa
+sediment	replace	Part sòlida d'una dissolució que es diposita al fons del seu contenidor	QA D5: «dels seu» -> «del seu»
+senyals	replace	(plural) Marca o indici que fa conèixer alguna cosa	accepció poc representativa i sexual
+senyores	replace	(femení plural) Tractament de cortesia donat a les dones	errada de gènere
+seques	replace	(femení plural) Que no té humitat	accepció poc representativa
+solitud	replace	Situació d'absència d'altres éssers vius	QA D5: «de d'altres» -> «d'altres»
+tenor	replace	La veu masculina de cantant més aguda	majúscula incorrecta
+terra	replace	Planeta on vivim; també, el sòl que trepitgem	accepció poc representativa
+timbre	replace	Aparell que fa sonar un avís quan es prem un botó	accepció poc representativa
+tinent	replace	Oficial de l'exèrcit de grau immediatament inferior al de capità	accepció poc representativa
+tipus	replace	Classe, model o mena	accepció poc representativa
+tots	replace	(plural) Cada un dels membres d'un grup, sense excepció	accepció confusa
+treu	drop		la forma és sobretot verbal
+trinxera	replace	Fossat allargat excavat per protegir els soldats en combat	errada: «sodats»
+trobat	replace	Que s'ha descobert o localitzat	accepció poc representativa
+turisme	replace	Activitat de viatjar per plaer per conèixer llocs	accepció poc representativa
+val	drop		la forma és sobretot verbal
+verge	replace	Que no ha estat tocat ni explotat, intacte	accepció sexual
+ves	drop		la forma és sobretot verbal
+vida	replace	Temps que passa des del naixement fins a la mort	accepció poc representativa
+vot	replace	Opció que tria un elector en unes eleccions	accepció poc representativa
+xifra	replace	Signe que representa un nombre	accepció poc representativa
+inusual	replace	Que no és habitual	QA iteració 3 (N4): pista poc natural
+matiner	replace	Que es lleva d’hora	QA iteració 3 (N4): l'accepció triada (peix) és secundària
+patrona	replace	Mestressa d’un negoci; santa protectora	QA iteració 3 (N4): la definició era en masculí
+patrones	replace	(plural) Mestresses d’un negoci; santes protectores	QA iteració 3 (N4): la definició era en masculí
+baies	replace	(plural) Fruit carnós d’una planta	QA iteració 3 (N3): amb l'atribució per freqüència el lema triat era «bai» (pelatge); el sentit comú és el de «baia»
+cotes	replace	(plural) Vestidura medieval de malles de ferro	QA iteració 3 (N3): mateixa accepció que «cota»
+molles	replace	(plural) Part tova del pa en contraposició a la crosta que és més dura	QA iteració 3 (N3): la pista era del nom «moll» (port) amb etiqueta de femení
+fites	drop		QA iteració 3 (N3): la pista era de l'adjectiu rar «fit»; «fita» no té pista
+sons	replace	(plural) Pertorbació de l’aire audible pels éssers vius	QA iteració 3 (N3): el sentit més comú és el de «so»
+cau	replace	Forat a terra on s’amaguen certs animals	DEUTE (QA S3 d’ajudes-i-recompenses): pleonasme «on … s’hi amaguen»
+caus	replace	(plural) Forats a terra on s’amaguen certs animals	DEUTE (QA S3 d’ajudes-i-recompenses): pleonasme «on … s’hi amaguen»
+pis	replace	Cadascuna de les plantes d’un edifici; habitatge que n’ocupa una	DEUTE (QA S1 de polit-i-feedback): «Planta superior» és imprecís
+car	replace	Que costa molts diners	revisió nivells 1–60: l’accepció (conjunció) és poc representativa
+arc	replace	Arma que llança fletxes amb una corda tensada	revisió nivells 1–60: «llença» i definició imprecisa
+gest	replace	Moviment expressiu de la cara o de les mans	revisió nivells 1–60: imprecís (només la mà)
+alta	replace	(femení) Que té molta alçada	revisió nivells 1–60: a la graella és el femení d’«alt», no el nom
+cos	replace	Estructura física d’una persona o d’un animal	revisió nivells 1–60: «Objecte físic» és ambigu
+roca	replace	Pedra molt grossa i dura	revisió nivells 1–60: pista massa llarga i confusa
+noi	replace	Persona jove, xicot	revisió nivells 1–60: «abans de la pubertat» és imprecís
+noia	replace	(femení) Persona jove, xicota	revisió nivells 1–60: «abans de la pubertat» és imprecís
+viu	replace	Que té vida	revisió nivells 1–60: la pista era de nom («Persona que no és morta»)
+roba	replace	Conjunt de peces de vestir	revisió nivells 1–60: pista massa llarga
+cura	replace	Atenció que es posa a fer bé una cosa	revisió nivells 1–60: errada «posat» i pista confusa
+ous	replace	(plural) Cossos ovalats amb closca que ponen les aus	revisió nivells 1–60: errada «de la què» i accepció tècnica
+crim	replace	Delicte greu	revisió nivells 1–60: «Ofensa moral» és imprecís
+afer	replace	Assumpte, negoci	revisió nivells 1–60: la pista contenia «fer»
+tip	replace	Que ha menjat fins a saciar-se	revisió nivells 1–60: la pista contenia «atipar»
+tenir	replace	Posseir alguna cosa	revisió nivells 1–60: pista poc natural
+nit	replace	Temps de foscor entre la posta de sol i l’alba	revisió nivells 1–60: «Part del dia on» és imprecís
+més	replace	En quantitat o grau superior	revisió nivells 1–60: l’accepció (signe +) és secundària
+tard	replace	Després de l’hora convinguda o habitual	revisió nivells 1–60: «Capvespre» és secundari
+tan	replace	En tal grau, davant d’un adjectiu o d’un adverbi	revisió nivells 1–60: pista confusa
+estar	replace	Trobar-se en un lloc o en una situació	revisió nivells 1–60: «Ser-hi en un assumpte» és confús
+pares	replace	(plural) Progenitors	revisió nivells 1–60: definició en singular masculí
+única	replace	(femení) Que no n’hi ha cap altra d’igual	revisió nivells 1–60: «com ell» no concorda amb el femení
+ganes	replace	(plural) Desig de fer alguna cosa	revisió nivells 1–60: «ganes» no és només desig de menjar
+ona	replace	Elevació de l’aigua que avança per la superfície del mar	revisió nivells 1–60: accepció poc representativa
+ones	replace	(plural) Elevacions de l’aigua que avancen per la superfície del mar	revisió nivells 1–60: accepció poc representativa
+política	replace	Activitat dels qui governen o aspiren a governar un estat	revisió nivells 1–60: definició poc natural
+dens	replace	Que té molta massa en poc volum	revisió nivells 1–60: definició agramatical
+semblar	replace	Tenir l’aparença d’alguna cosa	revisió nivells 1–60: definició confusa
+ombra	replace	Zona fosca que fa un cos en interceptar la llum	revisió nivells 1–60: imprecís
+creure	replace	Tenir per cert; tenir fe	revisió nivells 1–60: «Tenir confiança» és imprecís
+notar	replace	Adonar-se d’alguna cosa, percebre-la	revisió nivells 1–60: definició imprecisa
+dret	replace	Que no és tort; també, ciència de les lleis	revisió nivells 1–60: «d’una regió o tema» és confús
+drets	replace	(plural) Facultats que la llei reconeix a les persones	revisió nivells 1–60: plural del nom
+sopar	replace	Àpat que es fa al vespre	revisió nivells 1–60: definició poc natural
+parles	drop		revisió nivells 1–60: la forma és sobretot verbal
+raons	replace	(plural) Causes, motius	revisió nivells 1–60: definició en singular
+tisi	replace	Tuberculosi pulmonar	revisió nivells 1–60: definició imprecisa
+oceà	replace	Gran extensió de mar que separa continents	revisió Trenes: «Mar gran que cobreix la Terra» és imprecís
+urgent	replace	Que cal fer sense demora	revisió Trenes: definició poc natural
+suar	replace	Expel·lir líquid per la pell, transpirar	revisió Trenes: la pista contenia «suor»
+cosí	replace	Fill d’un oncle o d’una tia	revisió Trenes: «de l’oncle o d’una tia» incoherent
+com	replace	De quina manera	revisió Trenes: l’accepció (causal) és secundària
+anit	replace	Aquest vespre, o el vespre d’ahir	revisió Trenes: la pista contenia «nit», arrel evident
+dretes	replace	(femení plural) Del costat oposat a l’esquerre	revisió nivells 1–60: no hereta la pista manual de «dret»
+coms	drop		revisió Trenes: no hereta la pista de l’adverbi «com»
+cures	drop		revisió nivells 1–60: no hereta la pista manual de «cura»
+robes	drop		revisió nivells 1–60: la forma és sobretot verbal
+# ampliacio-pistes: revisió de les pistes recuperades automàticament (retall per oració,
+# altra categoria) de les paraules del banc; les suprimides tindran pista pròpia.
+sord	replace	Privat del sentit de l’oïda	ampliacio-pistes: «la oïda» -> «l’oïda»
+advocat	drop		ampliacio-pistes: accepció arcaica (professor de jurisprudència)
+agre	drop		ampliacio-pistes: accepció de nom poc representativa
+aparell	drop		ampliacio-pistes: accepció arcaica
+arreu	drop		ampliacio-pistes: accepció poc representativa («pertot»)
+bala	drop		ampliacio-pistes: accepció poc representativa (fardell, no projectil)
+breu	drop		ampliacio-pistes: accepció poc representativa (document pontifici)
+bufó	drop		ampliacio-pistes: retall incomplet
+central	drop		ampliacio-pistes: accepció poc representativa
+cicle	drop		ampliacio-pistes: accepció poc representativa (currículum escolar)
+clau	drop		ampliacio-pistes: accepció adjectiva poc representativa
+coll	drop		ampliacio-pistes: definició massa vaga
+conte	drop		ampliacio-pistes: retall erroni («fets reals»)
+correu	drop		ampliacio-pistes: accepció poc representativa
+cuina	drop		ampliacio-pistes: definició massa vaga
+dansa	drop		ampliacio-pistes: retall incomplet
+despatx	drop		ampliacio-pistes: accepció poc representativa (moble)
+efecte	drop		ampliacio-pistes: accepció poc representativa (pilota)
+empesa	drop		ampliacio-pistes: accepció poc coneguda
+esca	drop		ampliacio-pistes: retall enganyós
+espoli	drop		ampliacio-pistes: accepció poc representativa
+forn	drop		ampliacio-pistes: retall incomplet
+ganyota	drop		ampliacio-pistes: definició amb error («o involuntària»)
+gelat	drop		ampliacio-pistes: definició massa vaga
+gol	drop		ampliacio-pistes: retall incomplet
+gola	drop		ampliacio-pistes: definició massa vaga
+goma	drop		ampliacio-pistes: definició massa vaga
+grau	drop		ampliacio-pistes: accepció poc representativa
+greu	drop		ampliacio-pistes: accepció poc representativa (to baix)
+impacte	drop		ampliacio-pistes: definició confusa
+joc	drop		ampliacio-pistes: definició massa vaga
+mal	drop		ampliacio-pistes: accepció adverbial, no nominal
+mall	drop		ampliacio-pistes: error de concordança («Maça… emprat»)
+manera	drop		ampliacio-pistes: definició massa vaga
+missió	drop		ampliacio-pistes: accepció poc representativa (videojoc)
+museu	drop		ampliacio-pistes: retall incomplet
+nord	drop		ampliacio-pistes: definició errònia
+orri	drop		ampliacio-pistes: definició massa vaga
+oval	drop		ampliacio-pistes: definició massa vaga
+paisatge	drop		ampliacio-pistes: definició confusa
+parc	drop		ampliacio-pistes: accepció adjectiva poc representativa
+pas	drop		ampliacio-pistes: accepció adverbial poc representativa
+plantar	drop		ampliacio-pistes: accepció adjectiva poc representativa
+poció	drop		ampliacio-pistes: retall incomplet
+pànic	drop		ampliacio-pistes: accepció poc representativa (déu Pan)
+pèrdua	drop		ampliacio-pistes: definició poc representativa
+quadre	drop		ampliacio-pistes: retall incomplet
+quines	drop		ampliacio-pistes: la forma és el pronom interrogatiu, no el plural de «quina» (escorça)
+rasa	drop		ampliacio-pistes: retall amb error de concordança
+riure	drop		ampliacio-pistes: definició poc clara
+rivet	drop		ampliacio-pistes: definició confusa
+roda	drop		ampliacio-pistes: retall confús
+roent	drop		ampliacio-pistes: retall incomplet
+ros	drop		ampliacio-pistes: accepció poc representativa (barret)
+segell	drop		ampliacio-pistes: retall amb error («destinat estampar»)
+senat	drop		ampliacio-pistes: definició errònia
+sostre	drop		ampliacio-pistes: retall erroni
+sou	drop		ampliacio-pistes: accepció històrica poc representativa
+taller	drop		ampliacio-pistes: accepció poc representativa
+tancat	drop		ampliacio-pistes: definició confusa
+tauleta	drop		ampliacio-pistes: accepció poc representativa
+titular	drop		ampliacio-pistes: accepció poc representativa
+tot	drop		ampliacio-pistes: definició massa vaga
+trop	drop		ampliacio-pistes: retall incomplet
+àrid	drop		ampliacio-pistes: error de concordança («Terra sec»)
+òvul	drop		ampliacio-pistes: retall incomplet
+bufona	replace	(femení) Que desperta el sentiment de tendresa	ampliacio-pistes: es manté la pista anterior (la de «bufó» se suprimeix)
+bufones	replace	(femení plural) Que desperta el sentiment de tendresa	ampliacio-pistes: es manté la pista anterior (la de «bufó» se suprimeix)
+gelades	replace	(femení plural) Que s’ha solidificat per congelació	ampliacio-pistes: es manté la pista anterior (la de «gelat» se suprimeix)
+# QA ampliacio-pistes (informe docs/qa/ampliacio-pistes.md): drop = substituïda per una pista pròpia (part-00.tsv); replace = correcció del text
+pesar	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+pudor	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+con	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+arpa	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+lira	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+lires	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+torn	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+cort	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+dau	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+daus	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+meta	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+còfia	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+serra	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+pont	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+pipa	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+pista	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+maleta	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+mobles	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+blat	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+alls	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+sant	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+sants	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+roig	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+suau	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+tranquil	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+ahir	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+data	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+cicló	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+broc	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+fundació	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+mite	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+naps	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+pins	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+tapa	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+prim	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+card	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+mula	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+nom	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+clic	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+escot	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+cabal	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+crítica	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+parada	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+serè	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+serena	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+gràcies	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+remetre	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+teca	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+node	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+estat	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+oració	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+patró	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+militar	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+militars	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+llar	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+caiguda	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+riquesa	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+nuesa	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+pesat	drop		QA ampliacio-pistes: pista enganyosa o incompleta, substituïda per una de pròpia
+majoria	replace	La part més gran d’un conjunt	QA ampliacio-pistes: falta «més»
+plec	replace	Part d’una roba que, girada sobre ella mateixa, forma una ondulació	QA ampliacio-pistes: falta el verb «forma»
+bec	replace	Òrgan de la boca dels ocells format per beines còrnies	QA ampliacio-pistes: concordança «format»
+procés	replace	Manera com es desenvolupa una acció progressiva	QA ampliacio-pistes: «Manera en com»
+bou	replace	Animal mascle de la família dels bòvids	QA ampliacio-pistes: falta «dels»
+maori	replace	Persona que pertany al poble natiu de Nova Zelanda	QA ampliacio-pistes: falta «de»
+nadó	replace	Persona o animal nascut recentment	QA ampliacio-pistes: concordança «nascut»
+repte	replace	Objectiu al qual hom dona prioritat i que requereix cert esforç	QA ampliacio-pistes: falta «al qual»
+pàtria	replace	Lloc, en especial país, del qual hom considera que forma part	QA ampliacio-pistes: construcció «al qual… en forma part»
+lli	replace	Planta de la tija de la qual s’obtenen fibres tèxtils	QA ampliacio-pistes: pleonasme «se n’obtenen»
+elegant	replace	Que es distingeix per la seva manera de vestir i de fer, amb bon gust	QA ampliacio-pistes: text truncat «de fer polides»
+intens	replace	Que es manifesta amb molta força	QA ampliacio-pistes: «durant poc temps» és fals
+germanes	replace	(femení plural) Filla dels mateixos pares	QA ampliacio-pistes: etiqueta «(femení plural)»
+nines	replace	(femení plural) Figura humana femenina usada de joguina pels infants	QA ampliacio-pistes: etiqueta «(femení plural)»
+preses	replace	(femení plural) Acció d’apoderar-se d’alguna cosa	QA ampliacio-pistes: etiqueta «(femení plural)»
+orient	replace	Part del cel per on surt el sol, llevant	QA ampliacio-pistes: duplicat d’«est»
+tova	drop		substituïda per pista pròpia (QA ampliacio-pistes iter. 2)
+seca	drop		substituïda per pista pròpia (QA ampliacio-pistes iter. 2)
+# revisio-pistes-dificils: pistes del Viquidiccionari de les bandes 3–5 del banc reescrites (pròpies a part-00.tsv)
+alces	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+amena	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+anca	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+arna	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+asta	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+auca	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+binari	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+bisó	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+capó	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+dellà	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+flac	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+fris	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+genuí	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+gres	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+innat	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+jonc	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+larva	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+manyà	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+mesc	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+midó	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+onda	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+pern	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+predi	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+rols	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+roll	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+ruda	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+rull	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+servar	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+sosa	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+surera	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+tesor	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+tord	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+tònic	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+tòtil	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+vano	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+veto	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+xacal	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+tuta	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+adret	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+ardu	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+mero	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+orbe	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+crep	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+senó	drop		revisio-pistes-dificils: pista vaga, tècnica o d’un sentit poc comú; substituïda per una de pròpia
+ores	drop		revisio-pistes-dificils: gairebé idèntica a la d’«aura»; substituïda per una de pròpia
+orca	drop		revisio-pistes-dificils: tecnicisme («odontocet») més difícil que la paraula; substituïda per una de pròpia
+eons	drop		substituïda per pista pròpia (QA revisio-pistes-dificils)
+nora	drop		substituïda per pista pròpia (QA revisio-pistes-dificils)
+nores	drop		substituïda per pista pròpia (QA revisio-pistes-dificils)
+calci	drop		substituïda per pista pròpia (retirar-solucions-dubtoses)
+clac	drop		substituïda per pista pròpia (retirar-solucions-dubtoses)
+coalició	drop		substituïda per pista pròpia (retirar-solucions-dubtoses)
+concurs	drop		substituïda per pista pròpia (retirar-solucions-dubtoses)
+niar	drop		substituïda per pista pròpia (retirar-solucions-dubtoses)
+temor	drop		substituïda per pista pròpia (retirar-solucions-dubtoses)
+nus	drop		substituïda per pista pròpia (retirar-solucions-dubtoses, mostreig)
+recta	drop		substituïda per pista pròpia (retirar-solucions-dubtoses, mostreig)
+rectes	drop		substituïda per pista pròpia (retirar-solucions-dubtoses, mostreig)
+reial	drop		substituïda per pista pròpia (QA retirar-solucions-dubtoses)
+aeri	drop		substituïda per pista pròpia (QA retirar-solucions-dubtoses)
+laic	replace	Que no pertany a l’Església	majúscula d’«Església» (QA retirar-solucions-dubtoses)
+acre	replace	Unitat de superfície dels països anglosaxons, d’uns 4.047 metres quadrats	QA has-apres D1: «4,047 m²» amb coma decimal és fals (un acre són 4.046,86 m²); redacció pròpia, no calcada del DIEC2 (O14)
+mirra	replace	Resina aromàtica d’un arbust d’Aràbia i l’Àfrica oriental, usada en perfums	QA el-meu-diccionari M6: no és una planta (és la resina) i la família anava en llatí
+poncella	replace	Capoll de flor encara tancat, sobretot el de la rosa	revisió de pistes: «Noia verge» era poc apropiada en un joc familiar; accepció botànica
+heroïna	replace	Dona admirada per una gesta o per la seva valentia	revisió de pistes: la de la droga no és apropiada en un joc familiar; primera accepció
+tanc	replace	Dipòsit gran per guardar líquids o gasos	retirar-solucions-dubtoses-2: la del Viquidiccionari («…sòlids de mida molt petita») era confusa

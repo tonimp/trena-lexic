@@ -1,0 +1,699 @@
+[
+ {
+  "input": "casa",
+  "canonical": "casa",
+  "key": "CASA",
+  "tokens": [
+   "C",
+   "A",
+   "S",
+   "A"
+  ],
+  "length": 4,
+  "note": "forma simple"
+ },
+ {
+  "input": "CASA",
+  "canonical": "casa",
+  "key": "CASA",
+  "tokens": [
+   "C",
+   "A",
+   "S",
+   "A"
+  ],
+  "length": 4,
+  "note": "maj\u00fascules ASCII"
+ },
+ {
+  "input": "Casa",
+  "canonical": "casa",
+  "key": "CASA",
+  "tokens": [
+   "C",
+   "A",
+   "S",
+   "A"
+  ],
+  "length": 4,
+  "note": "maj\u00fascula inicial"
+ },
+ {
+  "input": "ca\u00e7a",
+  "canonical": "ca\u00e7a",
+  "key": "CA\u00c7A",
+  "tokens": [
+   "C",
+   "A",
+   "\u00c7",
+   "A"
+  ],
+  "length": 4,
+  "note": "\u00e7 \u00e9s el token \u00c7"
+ },
+ {
+  "input": "CA\u00c7A",
+  "canonical": "ca\u00e7a",
+  "key": "CA\u00c7A",
+  "tokens": [
+   "C",
+   "A",
+   "\u00c7",
+   "A"
+  ],
+  "length": 4,
+  "note": "\u00c7 maj\u00fascula precomposta"
+ },
+ {
+  "input": "cac\u0327a",
+  "canonical": "ca\u00e7a",
+  "key": "CA\u00c7A",
+  "tokens": [
+   "C",
+   "A",
+   "\u00c7",
+   "A"
+  ],
+  "length": 4,
+  "note": "c + ceditlla combinant (NFD)"
+ },
+ {
+  "input": "caca",
+  "canonical": "caca",
+  "key": "CACA",
+  "tokens": [
+   "C",
+   "A",
+   "C",
+   "A"
+  ],
+  "length": 4,
+  "note": "C diferent de \u00c7"
+ },
+ {
+  "input": "caf\u00e8",
+  "canonical": "caf\u00e8",
+  "key": "CAFE",
+  "tokens": [
+   "C",
+   "A",
+   "F",
+   "E"
+  ],
+  "length": 4,
+  "note": "accent greu precompost"
+ },
+ {
+  "input": "CAFE\u0300",
+  "canonical": "caf\u00e8",
+  "key": "CAFE",
+  "tokens": [
+   "C",
+   "A",
+   "F",
+   "E"
+  ],
+  "length": 4,
+  "note": "maj\u00fascules + accent greu combinant"
+ },
+ {
+  "input": "cafe\u0301",
+  "canonical": "caf\u00e9",
+  "key": "CAFE",
+  "tokens": [
+   "C",
+   "A",
+   "F",
+   "E"
+  ],
+  "length": 4,
+  "note": "accent agut combinant; grafia v\u00e0lida encara que no normativa"
+ },
+ {
+  "input": "CAF\u00c8",
+  "canonical": "caf\u00e8",
+  "key": "CAFE",
+  "tokens": [
+   "C",
+   "A",
+   "F",
+   "E"
+  ],
+  "length": 4,
+  "note": "\u00c8 maj\u00fascula precomposta"
+ },
+ {
+  "input": "co\u0140legi",
+  "canonical": "col\u00b7legi",
+  "key": "CO\u013fEGI",
+  "tokens": [
+   "C",
+   "O",
+   "L\u00b7L",
+   "E",
+   "G",
+   "I"
+  ],
+  "length": 6,
+  "note": "\u0140 U+0140 seguida de l"
+ },
+ {
+  "input": "CO\u013fLEGI",
+  "canonical": "col\u00b7legi",
+  "key": "CO\u013fEGI",
+  "tokens": [
+   "C",
+   "O",
+   "L\u00b7L",
+   "E",
+   "G",
+   "I"
+  ],
+  "length": 6,
+  "note": "\u013f U+013F seguida de L"
+ },
+ {
+  "input": "col\u00b7legi",
+  "canonical": "col\u00b7legi",
+  "key": "CO\u013fEGI",
+  "tokens": [
+   "C",
+   "O",
+   "L\u00b7L",
+   "E",
+   "G",
+   "I"
+  ],
+  "length": 6,
+  "note": "punt volat U+00B7"
+ },
+ {
+  "input": "COL\u00b7LEGI",
+  "canonical": "col\u00b7legi",
+  "key": "CO\u013fEGI",
+  "tokens": [
+   "C",
+   "O",
+   "L\u00b7L",
+   "E",
+   "G",
+   "I"
+  ],
+  "length": 6,
+  "note": "maj\u00fascules amb punt volat"
+ },
+ {
+  "input": "col\u2027legi",
+  "canonical": "col\u00b7legi",
+  "key": "CO\u013fEGI",
+  "tokens": [
+   "C",
+   "O",
+   "L\u00b7L",
+   "E",
+   "G",
+   "I"
+  ],
+  "length": 6,
+  "note": "separador U+2027"
+ },
+ {
+  "input": "col\u2219legi",
+  "canonical": "col\u00b7legi",
+  "key": "CO\u013fEGI",
+  "tokens": [
+   "C",
+   "O",
+   "L\u00b7L",
+   "E",
+   "G",
+   "I"
+  ],
+  "length": 6,
+  "note": "separador U+2219"
+ },
+ {
+  "input": "col\u22c5legi",
+  "canonical": "col\u00b7legi",
+  "key": "CO\u013fEGI",
+  "tokens": [
+   "C",
+   "O",
+   "L\u00b7L",
+   "E",
+   "G",
+   "I"
+  ],
+  "length": 6,
+  "note": "separador U+22C5"
+ },
+ {
+  "input": "collita",
+  "canonical": "collita",
+  "key": "COLLITA",
+  "tokens": [
+   "C",
+   "O",
+   "L",
+   "L",
+   "I",
+   "T",
+   "A"
+  ],
+  "length": 7,
+  "note": "ll sense punt: dos tokens L"
+ },
+ {
+  "input": "il\u00b7lusi\u00f3",
+  "canonical": "il\u00b7lusi\u00f3",
+  "key": "I\u013fUSIO",
+  "tokens": [
+   "I",
+   "L\u00b7L",
+   "U",
+   "S",
+   "I",
+   "O"
+  ],
+  "length": 6,
+  "note": "l\u00b7l a l'inici i accent"
+ },
+ {
+  "input": "pa\u0140la",
+  "canonical": "pal\u00b7la",
+  "key": "PA\u013fA",
+  "tokens": [
+   "P",
+   "A",
+   "L\u00b7L",
+   "A"
+  ],
+  "length": 4,
+  "note": "\u0140l min\u00fascula"
+ },
+ {
+  "input": "llu\u00e7",
+  "canonical": "llu\u00e7",
+  "key": "LLU\u00c7",
+  "tokens": [
+   "L",
+   "L",
+   "U",
+   "\u00c7"
+  ],
+  "length": 4,
+  "note": "ll palatal i \u00e7 final"
+ },
+ {
+  "input": "ve\u00efna",
+  "canonical": "ve\u00efna",
+  "key": "VEINA",
+  "tokens": [
+   "V",
+   "E",
+   "I",
+   "N",
+   "A"
+  ],
+  "length": 5,
+  "note": "di\u00e8resi precomposta"
+ },
+ {
+  "input": "vei\u0308na",
+  "canonical": "ve\u00efna",
+  "key": "VEINA",
+  "tokens": [
+   "V",
+   "E",
+   "I",
+   "N",
+   "A"
+  ],
+  "length": 5,
+  "note": "di\u00e8resi combinant (NFD)"
+ },
+ {
+  "input": "ping\u00fc\u00ed",
+  "canonical": "ping\u00fc\u00ed",
+  "key": "PINGUI",
+  "tokens": [
+   "P",
+   "I",
+   "N",
+   "G",
+   "U",
+   "I"
+  ],
+  "length": 6,
+  "note": "\u00fc i \u00ed"
+ },
+ {
+  "input": "PING\u00dc\u00cd",
+  "canonical": "ping\u00fc\u00ed",
+  "key": "PINGUI",
+  "tokens": [
+   "P",
+   "I",
+   "N",
+   "G",
+   "U",
+   "I"
+  ],
+  "length": 6,
+  "note": "\u00dc i \u00cd maj\u00fascules"
+ },
+ {
+  "input": "pingu\u0308i\u0301",
+  "canonical": "ping\u00fc\u00ed",
+  "key": "PINGUI",
+  "tokens": [
+   "P",
+   "I",
+   "N",
+   "G",
+   "U",
+   "I"
+  ],
+  "length": 6,
+  "note": "dues marques combinants (NFD)"
+ },
+ {
+  "input": "ra\u00efm",
+  "canonical": "ra\u00efm",
+  "key": "RAIM",
+  "tokens": [
+   "R",
+   "A",
+   "I",
+   "M"
+  ],
+  "length": 4,
+  "note": "\u00ef"
+ },
+ {
+  "input": "\u00e0via",
+  "canonical": "\u00e0via",
+  "key": "AVIA",
+  "tokens": [
+   "A",
+   "V",
+   "I",
+   "A"
+  ],
+  "length": 4,
+  "note": "\u00e0 inicial"
+ },
+ {
+  "input": "\u00c0VIA",
+  "canonical": "\u00e0via",
+  "key": "AVIA",
+  "tokens": [
+   "A",
+   "V",
+   "I",
+   "A"
+  ],
+  "length": 4,
+  "note": "\u00c0 maj\u00fascula"
+ },
+ {
+  "input": "\u00f2pera",
+  "canonical": "\u00f2pera",
+  "key": "OPERA",
+  "tokens": [
+   "O",
+   "P",
+   "E",
+   "R",
+   "A"
+  ],
+  "length": 5,
+  "note": "\u00f2"
+ },
+ {
+  "input": "\u00d3S",
+  "canonical": "\u00f3s",
+  "key": "OS",
+  "tokens": [
+   "O",
+   "S"
+  ],
+  "length": 2,
+  "note": "\u00d3 maj\u00fascula; la normalitzaci\u00f3 no filtra per longitud"
+ },
+ {
+  "input": "\u00daLTIM",
+  "canonical": "\u00faltim",
+  "key": "ULTIM",
+  "tokens": [
+   "U",
+   "L",
+   "T",
+   "I",
+   "M"
+  ],
+  "length": 5,
+  "note": "\u00da maj\u00fascula"
+ },
+ {
+  "input": "m\u00e9s",
+  "canonical": "m\u00e9s",
+  "key": "MES",
+  "tokens": [
+   "M",
+   "E",
+   "S"
+  ],
+  "length": 3,
+  "note": "hom\u00f2graf normalitzat (m\u00e9s)"
+ },
+ {
+  "input": "mes",
+  "canonical": "mes",
+  "key": "MES",
+  "tokens": [
+   "M",
+   "E",
+   "S"
+  ],
+  "length": 3,
+  "note": "hom\u00f2graf normalitzat (mes)"
+ },
+ {
+  "input": "M\u00c9S",
+  "canonical": "m\u00e9s",
+  "key": "MES",
+  "tokens": [
+   "M",
+   "E",
+   "S"
+  ],
+  "length": 3,
+  "note": "\u00c9 maj\u00fascula"
+ },
+ {
+  "input": "ou",
+  "canonical": "ou",
+  "key": "OU",
+  "tokens": [
+   "O",
+   "U"
+  ],
+  "length": 2,
+  "note": "2 tokens: v\u00e0lid per a la normalitzaci\u00f3"
+ },
+ {
+  "input": "\u00c7",
+  "canonical": "\u00e7",
+  "key": "\u00c7",
+  "tokens": [
+   "\u00c7"
+  ],
+  "length": 1,
+  "note": "\u00c7 sola"
+ },
+ {
+  "input": "s'ha",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "ap\u00f2strof recte"
+ },
+ {
+  "input": "s\u2019ha",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "ap\u00f2strof tipogr\u00e0fic U+2019"
+ },
+ {
+  "input": "nord-est",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "guionet"
+ },
+ {
+  "input": "dona-li",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "cl\u00edtic encl\u00edtic amb guionet"
+ },
+ {
+  "input": "ni\u00f1o",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "\u00f1 no \u00e9s catalana"
+ },
+ {
+  "input": "cr\u00eape",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "\u00ea no \u00e9s catalana"
+ },
+ {
+  "input": "stra\u00dfe",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "\u00df no \u00e9s catalana"
+ },
+ {
+  "input": "STRA\u1e9eE",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "\u1e9e maj\u00fascula no \u00e9s a la taula"
+ },
+ {
+  "input": "\u0130NTIM",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "\u0130 (I amb punt) no \u00e9s a la taula"
+ },
+ {
+  "input": "l\u00b7",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "punt volat sense l posterior"
+ },
+ {
+  "input": "\u00b7la",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "punt volat inicial"
+ },
+ {
+  "input": "col\u00b7egi",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "punt volat no seguit de l"
+ },
+ {
+  "input": "col.legi",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "punt ordinari"
+ },
+ {
+  "input": "il\u00b7l\u00b7lusi\u00f3",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "l\u00b7l\u00b7l: punt volat que comparteix l"
+ },
+ {
+  "input": "\u013f",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "\u013f sola dona l\u00b7 incomplet"
+ },
+ {
+  "input": "",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "cadena buida"
+ },
+ {
+  "input": "cas a",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "espai"
+ },
+ {
+  "input": "123",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "d\u00edgits"
+ },
+ {
+  "input": "caf\u00e8.",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "punt final"
+ },
+ {
+  "input": "e\u0303",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "e + titlla combinant (no \u00e9s a la taula)"
+ },
+ {
+  "input": "a\u0327",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "a + ceditlla combinant (no \u00e9s a la taula)"
+ },
+ {
+  "input": "\u0301a",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "marca combinant inicial"
+ },
+ {
+  "input": "\ufb01",
+  "canonical": null,
+  "key": null,
+  "tokens": null,
+  "length": null,
+  "note": "lligadura fi"
+ }
+]

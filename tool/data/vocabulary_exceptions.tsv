@@ -1,0 +1,32 @@
+paraula	motiu
+# Noms propis i sigles revisats per a tool/check_vocabulary.py (design D9 de
+# notificacions-i-credits). Una per línia: forma exacta<TAB>motiu.
+Trena	nom de l’app
+Softcatalà	nom propi (associació autora del diccionari)
+catalan-dict-tools	nom propi (projecte de Softcatalà)
+Viquidiccionari	nom propi (diccionari col·laboratiu de Wikimedia)
+Nunito	nom propi (tipus de lletra)
+Flutter	nom propi (marc de programari)
+LGPL	sigla de llicència (GNU Lesser General Public License)
+GPL	sigla de llicència (GNU General Public License)
+CC	sigla de llicència (Creative Commons)
+BY-SA	sigla de llicència (Reconeixement-CompartirIgual)
+OFL	sigla de llicència (SIL Open Font License)
+SIL	nom propi (organització autora de l’OFL)
+IEC	sigla (Institut d’Estudis Catalans)
+SIL Open Font License	nom oficial de llicència (no es tradueix)
+iPhone	nom propi (telèfon d’Apple), textos de botiga
+Android	nom propi (sistema operatiu), textos de botiga
+App Store	nom propi (botiga d’Apple)
+Google Play	nom propi (botiga de Google)
+VoiceOver	nom propi (lector de pantalla d’iOS)
+TalkBack	nom propi (lector de pantalla d’Android)
+PEGI	sigla (classificació d’edat europea)
+L·L	representació visual de la fitxa de la ela geminada
+Ç	lletra ce trencada esmentada sola (fitxa de la roda)
+dt	abreviatura normativa de «dimarts» (calendari)
+dv	abreviatura normativa de «divendres» (calendari)
+ds	abreviatura normativa de «dissabte» (calendari)
+Nadal	nom propi (festivitat del 25 de desembre), pistes de temporada de Nadal
+Llúcia	nom propi (santa Llúcia, fira de Nadal), tema de temporada
+Z	lletra (etiqueta «A–Z» de l’ordre alfabètic d’El meu diccionari)

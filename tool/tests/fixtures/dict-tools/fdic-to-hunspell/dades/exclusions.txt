@@ -1,0 +1,5 @@
+#EXCLOU FORMA DE TOTS
+barco  # castellanisme
+#EXCLOU LEMA DE catalan
+#EXCLOU FORMA DE catalan-valencia
+gat

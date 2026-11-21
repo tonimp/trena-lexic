@@ -1,0 +1,5 @@
+anticòs=categories: M;fonts: dsalut;
+casa=categories: F;fonts: LT;
+gat gata=categories: M;fonts: LT;
+#intima=categories: F;fonts: LT; arcaisme
+edifici=categories: M;fonts: LT,dsalut;

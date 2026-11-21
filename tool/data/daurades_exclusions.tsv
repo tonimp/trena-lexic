@@ -1,0 +1,159 @@
+form	reason
+# Formes retirades com a paraula daurada (canvi paraules-daurades, design D7–D8). Continuen sent
+# extres vàlides i conserven la pista: només deixen de ser daurada, i build_daurades.py tria la
+# candidata següent, que també s'ha de revisar. Cada forma ha de ser extra d'algun nivell del banc
+# general (si no, la construcció falla nomenant la línia). No es reescriu cap pista (D7).
+rama	pista d’un sentit poc habitual (branca que es planta)
+radó	pista que no ensenya res: «Element químic…»
+reni	pista que no ensenya res: «Element químic…»
+clap	pista vaga
+reng	pista d’un sentit poc habitual i amb una errada («codes» per «cordes»)
+sèpia	la pista conté l’arrel de la resposta («sípia»)
+taba	pista que és una remissió d’una sola paraula («Astràgal»)
+mate	pista d’un sentit poc conegut (l’arbre, no la infusió)
+erra	pista que no ensenya res: «Lletra…»
+surer	pista d’un sentit poc habitual i d’una sola paraula («Ballesta»)
+tori	pista que no ensenya res: «Element químic…»
+redir	la pista conté l’arrel de la resposta («dir»)
+essa	pista que no ensenya res: «Lletra…»
+aïrar	la pista conté l’arrel de la resposta («ira»)
+nervi	pista imprecisa
+amar	la pista conté l’arrel de la resposta («amor»)
+raier	la pista conté l’arrel de la resposta («rai»)
+coent	la pista conté l’arrel de la resposta («cou», de «coure»)
+renom	la pista conté l’arrel de la resposta («nom»)
+platí	pista que no ensenya res: «Element químic…»
+ressec	la pista conté l’arrel de la resposta («sec»)
+pomera	pista vaga (qualsevol rosàcia)
+catió	la pista conté l’arrel de la resposta («ió»)
+derma	la pista conté l’arrel de la resposta («epidermis»)
+saler	la pista conté l’arrel de la resposta («sal»)
+tenca	pista vaga («Espècie de peix»)
+marro	pista vaga
+arcar	pista d’una sola paraula amb l’arrel («Arquejar»)
+ceri	pista que no ensenya res: «Element químic…»
+ducat	la pista conté l’arrel de la resposta («duc»)
+secall	la pista conté l’arrel de la resposta («resseca»)
+sàmec	pista que no ensenya res: «…lletra…»
+ètnia	pista vaga i tema sensible
+oliós	la pista conté l’arrel de la resposta («oli»)
+sípia	la pista conté l’arrel de la resposta («sèpids»)
+escatir	pista d’una sola paraula d’un sentit poc habitual («Esporgar»)
+raser	la pista conté l’arrel de la resposta («ras»)
+airós	pista d’un sentit poc habitual (el corrent és «graciós»)
+rodi	pista que no ensenya res: «Element químic…»
+picot	pista d’un sentit poc habitual (l’eina, no l’ocell)
+garneu	pista ambigua d’un nom de peix («Lluerna fosca»)
+cònic	la pista conté l’arrel de la resposta («con»)
+manró	paraula molt rara amb una pista no verificable
+puresa	la pista conté l’arrel de la resposta («pur»)
+duta	forma flexionada (participi de «dur»)
+cesta	pista confusa d’un sentit poc conegut
+piló	pista vaga
+sama	pista que és una remissió a un altre nom de peix
+ossa	la pista conté l’arrel de la resposta («os») i forma femenina
+noguer	pista amb només el nom científic
+però	paraula gramatical: la pista no ensenya res
+argó	pista que no ensenya res: «Element químic…»
+necrosi	pista amb una errada de concordança («Mort… causat»)
+turba	pista d’un sentit poc habitual i despectiu (el corrent és el combustible)
+murta	pista vaga (només la família botànica)
+tuba	pista vaga («Instrument aeròfon de metall»)
+roget	pista que és una remissió d’una sola paraula («Pinetell»)
+indià	pista d’un sentit poc habitual (el corrent és l’emigrant enriquit a Amèrica)
+anyal	la pista conté l’arrel de la resposta («any»)
+pelicà	la pista conté l’arrel de la resposta («Pelecanus»)
+casori	la pista conté l’arrel de la resposta («Casament»)
+colina	pista vaga i paraula fàcil de confondre amb un castellanisme
+cloenda	pista d’un sentit poc habitual (el corrent és l’acte final)
+estor	pista d’un sentit poc habitual (el corrent és la cortina)
+curi	pista que no ensenya res: «Element químic…»
+tauler	pista d’un sentit poc habitual (el corrent és la taula de joc)
+magnesi	pista que no ensenya res: «Element químic…»
+gafet	pista vaga
+avinent	la pista conté l’arrel de la resposta («avenir-se»)
+paona	la pista conté l’arrel de la resposta («Paó»)
+romer	pista d’un sentit poc habitual (el corrent és el romaní o el pelegrí)
+cobalt	pista que no ensenya res: «Element químic…»
+aleró	la pista conté l’arrel de la resposta («Ala»)
+trèmol	pista vaga (només la família botànica)
+tàvec	pista amb només el nom científic
+anió	la pista conté l’arrel de la resposta («ió»)
+vinater	la pista conté l’arrel de la resposta («vi»)
+apamar	la pista conté l’arrel de la resposta («pam»)
+porro	tema sensible (també és el nom col·loquial d’una cigarreta de cànnabis)
+alenar	la pista conté l’arrel de la resposta («alè»)
+tremuja	pista vaga
+manat	la pista conté l’arrel de la resposta («mà»)
+aute	pista que és una remissió d’una sola paraula («Interlocutòria»)
+marea	la pista conté l’arrel de la resposta («mar»)
+gema	pista d’un sentit poc habitual (el corrent és la pedra preciosa)
+remunta	pista confusa d’un sentit poc conegut
+torba	pista imprecisa
+culer	derivat d’un nom propi i tema de rivalitat esportiva
+amanir	pista d’un sentit poc habitual (el corrent és condimentar)
+xapar	pista d’un sentit poc habitual i d’una sola paraula («Esberlar»)
+sinó	paraula gramatical: la pista no ensenya res
+osmi	pista que no ensenya res: «Element químic…»
+maire	pista vaga (només la família del peix)
+amiant	pista vaga
+mentor	pista vaga
+cresta	pista vaga («Part del cos d’alguns animals»)
+jota	pista que no ensenya res: «…lletra…»
+treta	pista d’un sentit poc habitual (el corrent és l’ardit o la sortida)
+àlef	pista que no ensenya res: «…lletra…»
+paüra	la pista conté l’arrel de la resposta («paor»)
+onagre	pista vaga (només la família)
+marlí	pista que és una remissió a un altre nom de peix
+iode	pista que no ensenya res: «Element químic…»
+carrau	pista que és una remissió onomatopeica
+càtode	pista imprecisa i enganyosa («positiu o negatiu»)
+esvair	pista d’un sentit poc habitual (el corrent és dissipar)
+panet	la pista conté l’arrel de la resposta («Pa»)
+ansat	la pista conté l’arrel de la resposta («nansa»)
+asenet	la pista conté l’arrel de la resposta («Ase»)
+acanar	la pista conté l’arrel de la resposta («canes»)
+xaria	tema sensible
+cereal	pista vaga i en plural
+tèrmic	pista amb una errada («al calor» per «a la calor»)
+pinsà	pista vaga (només la família de l’ocell)
+panera	la pista conté l’arrel de la resposta («pa»)
+secta	tema sensible (sovint despectiu)
+corejar	la pista conté l’arrel de la resposta («cor»)
+fesa	la pista conté l’arrel de la resposta («fendre»)
+crom	pista que no ensenya res: «Element químic…»
+escora	pista dubtosa d’un sentit poc habitual
+carretó	pista d’un sentit poc habitual (el corrent és el carro petit)
+àlif	pista que no ensenya res: «…lletra…»
+toscar	pista que és una remissió d’una sola paraula amb l’arrel («Tosquera»)
+bestia	la pista conté l’arrel de la resposta («Tia»)
+erecte	tema sensible (connotació sexual)
+estronci	pista que no ensenya res: «Element químic…»
+vern	pista vaga (només la família botànica)
+paca	pista vaga (només la taxonomia)
+orada	pista vaga (només la família del peix)
+corneta	pista vaga («Instrument aeròfon, de metall»)
+sitar	pista vaga («Instrument cordòfon pinçat»)
+cista	pista vaga
+perxa	pista vaga
+tenora	pista vaga («Instrument aeròfon de fusta»)
+cornetí	pista vaga («Instrument aeròfon de metall»)
+arcont	pista vaga («Governant»)
+ranc	tema sensible: discapacitat (mateix criteri que apres_exclusions.tsv)
+insà	tema sensible: salut mental (mateix criteri que apres_exclusions.tsv)
+neci	to despectiu (mateix criteri que apres_exclusions.tsv)
+talòs	to despectiu
+letó	gentilici definit per la capital o una perífrasi (mateix criteri que apres_exclusions.tsv)
+lituà	gentilici definit per la capital o una perífrasi (mateix criteri que apres_exclusions.tsv)
+sard	gentilici definit per la capital o una perífrasi (mateix criteri que apres_exclusions.tsv)
+txec	gentilici definit per la capital o una perífrasi (mateix criteri que apres_exclusions.tsv)
+ieti	sense entrada al DIEC2 (mateix criteri que apres_exclusions.tsv)
+paor	pista que no ensenya res (sinònim; mateix criteri que apres_exclusions.tsv)
+erol	pista confusa («Flotó…»)
+eixe	paraula gramatical: la pista no ensenya res
+interí	pista enganyosa (interí vol dir provisional)
+crater	homògrafa sense accent de «cràter» (banda 2): el jugador pensa en el volcà i la pista és «Vas grec…»
+roina	homògrafa sense dièresi de «roïna» (femení de «roí», més freqüent): la pista parla de pluja
+odiar	la pista conté l’arrel de la resposta («odi»)
+castlà	retirar-solucions-dubtoses-2: retirada com a solució (terme d’història, DIEC2 [HIH]); a més, conserva la daurada publicada del nivell 449 (patac)
+retop	retirar-solucions-dubtoses-2: en sortir d’apres.tsv hauria desplaçat la daurada publicada del nivell 401 (forest)

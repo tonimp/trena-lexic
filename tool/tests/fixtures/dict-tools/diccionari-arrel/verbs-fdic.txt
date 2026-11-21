@@ -1,0 +1,1 @@
+cantar=categories: V;model:cantar;fonts: LT;

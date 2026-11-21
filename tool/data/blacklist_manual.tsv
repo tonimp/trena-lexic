@@ -1,0 +1,207 @@
+form	level	reason
+abusar	sensitive	tema sensible: violència sexual o abús
+aixafaterrossos	sensitive	revisat: despectiu lleu o de registre, no insult greu; no apte com a solució
+alicorn	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+al·losexual	sensitive	revisat: terme neutre de sexualitat (marca temàtica, no ofensiva); no apte com a solució
+al·losexualitat	sensitive	revisat: terme neutre de sexualitat (marca temàtica, no ofensiva); no apte com a solució
+anal	sensitive	anatomia o sexualitat
+anorèxia	sensitive	tema sensible: malaltia greu
+apoliticisme	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+apunyalar	sensitive	tema sensible: crim i violència extrema
+arreglaparròquies	sensitive	revisat: despectiu lleu o de registre, no insult greu; no apte com a solució
+arronsada	allow	revisat (QA iteració 2, m2): sentit principal neutre (arronsar les espatlles); la marca vulgar és d'una accepció secundària
+assassinar	sensitive	tema sensible: crim i violència extrema
+assassinat	sensitive	tema sensible: crim i violència extrema
+assassí	sensitive	tema sensible: crim i violència extrema
+autoexploració	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+bacallar	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+bagassa	absolute	insult sexista
+bandarra	sensitive	insult o despectiu
+barjaula	absolute	insult sexista
+bastard	sensitive	insult o despectiu
+benaventurat	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+bonisme	sensitive	revisat: despectiu lleu o de registre, no insult greu; no apte com a solució
+bord	sensitive	QA iteració 3 (N4): s'usa com a insult (sobretot en valencià); no apte com a solució
+bordell	sensitive	prostitució
+borratxo	sensitive	revisat: sentit principal neutre (persona embriagada), marcat vulgar pel registre; verificat DIEC2 2026-10-24 (entrades borratxo¹ i borratxo²)
+bossa	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+bruixa	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+bulímia	sensitive	tema sensible: malaltia greu
+busca	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+bòfia	sensitive	col·loquial despectiu (policia)
+cabrit	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+caca	sensitive	escatològic lleu
+cadàver	sensitive	tema sensible: crim i violència extrema
+cagar	absolute	escatològic
+cigala	allow	revisat (QA iteració 2, m2): sentit principal neutre (crustaci, insecte); la marca vulgar és d'una accepció secundària
+clau	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+clítoris	sensitive	anatomia o sexualitat; no apte com a solució
+clòtxina	allow	revisat (QA iteració 2, m2): sentit principal neutre (musclo); la marca vulgar és d'una accepció secundària
+cocaïna	sensitive	tema sensible: drogues
+coit	sensitive	anatomia o sexualitat; no apte com a solució
+collonada	absolute	vulgar (derivat de colló)
+collonut	absolute	vulgar (derivat de colló)
+condó	sensitive	sexualitat
+cornut	sensitive	insult o despectiu
+corrupció	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+cretí	sensitive	insult o despectiu
+cul	sensitive	escatològic lleu
+culet	sensitive	escatològic lleu
+curt	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+càncer	sensitive	tema sensible: malaltia greu
+decapitar	sensitive	tema sensible: crim i violència extrema
+desgraciat	sensitive	insult o despectiu
+diarrea	sensitive	escatològic lleu
+dotor	sensitive	revisat: despectiu lleu o de registre, no insult greu; no apte com a solució
+droga	sensitive	tema sensible: drogues
+drogar	sensitive	tema sensible: drogues
+efeminat	sensitive	despectiu
+emprenyar	sensitive	col·loquial malsonant
+emprenyat	sensitive	col·loquial malsonant
+entabanat	sensitive	revisat: despectiu lleu o de registre, no insult greu; no apte com a solució
+entaforar	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+entrecuix	sensitive	anatomia sexual
+erecció	sensitive	sexualitat
+esclavitud	sensitive	tema sensible: esclavitud
+escrot	sensitive	anatomia o sexualitat; no apte com a solució
+escórrer	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+esperma	sensitive	anatomia o sexualitat; no apte com a solució
+estúpid	sensitive	insult o despectiu
+etarra	sensitive	tema sensible: terrorisme
+eutanàsia	sensitive	tema sensible: mort
+facció	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+fal·locentrisme	sensitive	revisat: terme neutre de sexualitat (marca temàtica, no ofensiva); no apte com a solució
+fava	allow	revisat (QA iteració 2, m2): sentit principal neutre (llegum); la marca vulgar és d'una accepció secundària
+feixisme	sensitive	tema sensible: ideologia totalitària
+feixista	sensitive	tema sensible: ideologia totalitària
+figa	allow	revisat (QA iteració 2, m2): sentit principal neutre (fruit); la marca vulgar és d'una accepció secundària
+finolis	sensitive	revisat: despectiu lleu o de registre, no insult greu; no apte com a solució
+follada	absolute	sexual explícit
+fornici	sensitive	sexualitat; no apte com a solució
+fotut	absolute	vulgar (verb fotre i derivats)
+friqui	sensitive	revisat: despectiu lleu o de registre, no insult greu; no apte com a solució
+gai	sensitive	identitat sexual (tema sensible); no apte com a solució
+genital	sensitive	anatomia sexual
+genocidi	sensitive	tema sensible: crim i violència extrema
+gentussa	sensitive	despectiu
+gonella	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+guiri	sensitive	despectiu ètnic o religiós
+hipersexualització	sensitive	revisat: terme neutre de sexualitat (marca temàtica, no ofensiva); no apte com a solució
+holocaust	sensitive	tema sensible: crim i violència extrema
+homicida	sensitive	tema sensible: crim i violència extrema
+homicidi	sensitive	tema sensible: crim i violència extrema
+idiota	absolute	insult
+idiotesa	sensitive	derivat d'insult (idiota)
+imbècil	absolute	insult
+incest	sensitive	tema sensible: violència sexual o abús
+insecte	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+invertit	sensitive	revisat: participi i adjectiu comuns d'invertir; sentit despectiu secundari; verificat DIEC2 2026-10-24 (entrada invertit)
+islamista	sensitive	tema sensible: extremisme religiós
+jihad	sensitive	tema sensible: terrorisme o extremisme
+jueu	sensitive	director: terme d'identitat; acceptat com a intent però mai solució (criteri conservador, com moro)
+lesbià	sensitive	identitat sexual (tema sensible); no apte com a solució
+leucèmia	sensitive	tema sensible: malaltia greu
+lladregada	sensitive	revisat: despectiu lleu o de registre, no insult greu; no apte com a solució
+llepaculs	absolute	malsonant
+lletrut	sensitive	revisat: despectiu lleu o de registre, no insult greu; no apte com a solució
+llonguet	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+maduixot	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+maltractament	sensitive	tema sensible: violència sexual o abús
+malxinat	sensitive	revisat: despectiu lleu o de registre, no insult greu; no apte com a solució
+mamada	absolute	sexual explícit
+mamilinció	sensitive	revisat: despectiu lleu o de registre, no insult greu; no apte com a solució
+marfanta	absolute	insult sexista
+marieta	sensitive	revisat: homògraf d'insecte (marieta); sentit despectiu secundari; verificat DIEC2 2026-10-24 (entrades marieta¹ i marieta²)
+marrà	sensitive	despectiu ètnic o religiós
+massacre	sensitive	tema sensible: crim i violència extrema
+masturbació	absolute	sexual explícit
+masturbar	absolute	sexual explícit
+matança	sensitive	tema sensible: crim i violència extrema
+matxutxo	sensitive	revisat: despectiu lleu o de registre, no insult greu; no apte com a solució
+merda	absolute	escatològic
+meuca	absolute	insult sexista
+mitjapoma	sensitive	revisat: despectiu lleu o de registre, no insult greu; no apte com a solució
+mongol	sensitive	QA iteració 3 (N4): gentilici que també s'usa com a insult; mateix criteri que «mongòlid»
+mongòlic	sensitive	revisat: gentilici de Mongòlia; ús ofensiu secundari
+moro	sensitive	despectiu ètnic o religiós
+morreig	sensitive	revisat: despectiu lleu o de registre, no insult greu; no apte com a solució
+morro	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+mugró	sensitive	anatomia (mama); revisió sistemàtica 2026-10-24
+mulat	sensitive	ètnia (tema sensible; usos despectius)
+nazi	sensitive	tema sensible: ideologia totalitària
+nazisme	sensitive	tema sensible: ideologia totalitària
+opi	sensitive	tema sensible: drogues
+orgasme	absolute	sexual explícit
+pallús	sensitive	insult o despectiu
+pardal	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+pebrot	allow	revisat (QA iteració 2, m2): sentit principal neutre (hortalissa); la marca vulgar és d'una accepció secundària
+pederasta	sensitive	tema sensible: violència sexual o abús
+pedofília	sensitive	tema sensible: violència sexual o abús
+pedòfil	sensitive	tema sensible: violència sexual o abús
+pelut	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+penis	sensitive	anatomia o sexualitat; no apte com a solució
+perla	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+pet	sensitive	escatològic lleu
+petar	sensitive	escatològic lleu
+picaplets	sensitive	revisat: despectiu lleu o de registre, no insult greu; no apte com a solució
+pilotes	allow	revisat (QA iteració 2, m2): plural de pilota, sentit principal neutre; la marca vulgar és d'una accepció secundària
+pitjar	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+pixapins	sensitive	revisat: despectiu lleu o de registre, no insult greu; no apte com a solució
+pixar	sensitive	escatològic lleu
+pixatinters	sensitive	revisat: despectiu lleu o de registre, no insult greu; no apte com a solució
+pocavergonya	sensitive	insult o despectiu
+polla	sensitive	anatomia o sexualitat; no apte com a solució
+poma	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+pornografia	absolute	sexual explícit
+pornogràfic	absolute	sexual explícit
+pota	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+prepuci	sensitive	anatomia sexual
+prostitució	sensitive	prostitució
+prostituta	sensitive	prostitució
+prostíbul	sensitive	prostitució
+pubis	sensitive	anatomia sexual
+putada	absolute	insult sexista
+puteig	absolute	vulgar (derivat de putejar)
+púbic	sensitive	anatomia sexual
+retardat	sensitive	insult o despectiu
+sastrinyol	sensitive	revisat: despectiu lleu o de registre, no insult greu; no apte com a solució
+semen	sensitive	anatomia o sexualitat; no apte com a solució
+ses	sensitive	QA iteració 3 (N1): anatomia íntima (DIEC2: extrem inferior de l'intestí recte, l'anus); la freqüència és la de l'article salat «ses»
+sexe	sensitive	anatomia o sexualitat; no apte com a solució
+sexual	sensitive	anatomia o sexualitat; no apte com a solució
+sida	sensitive	tema sensible: malaltia greu
+sobredosi	sensitive	tema sensible: drogues
+sodomia	sensitive	anatomia o sexualitat; no apte com a solució
+sodomita	sensitive	anatomia o sexualitat; no apte com a solució
+subnormal	absolute	insult
+sucar	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+superficial	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+suïcida	sensitive	tema sensible: suïcidi
+suïcidar	sensitive	tema sensible: suïcidi
+suïcidi	sensitive	tema sensible: suïcidi
+talibà	sensitive	tema sensible: terrorisme o extremisme
+tanoca	sensitive	insult o despectiu
+terrorisme	sensitive	tema sensible: crim i violència extrema
+terrorista	sensitive	tema sensible: crim i violència extrema
+testicle	sensitive	anatomia o sexualitat; no apte com a solució
+teta	sensitive	anatomia o sexualitat; no apte com a solució
+tetes	sensitive	anatomia o sexualitat; no apte com a solució
+tia	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+titola	absolute	sexual explícit
+tortura	sensitive	tema sensible: crim i violència extrema
+torturar	sensitive	tema sensible: crim i violència extrema
+trempar	sensitive	anatomia o sexualitat; no apte com a solució
+trempat	sensitive	anatomia o sexualitat; no apte com a solució
+trempera	absolute	sexual explícit
+trumfo	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+tumor	sensitive	tema sensible: malaltia greu
+vagina	sensitive	anatomia o sexualitat; no apte com a solució
+verga	sensitive	anatomia o sexualitat; no apte com a solució
+versàtil	allow	revisat: sentit principal neutre i molt comú; la marca és d'una accepció dialectal o marginal
+violació	sensitive	tema sensible: violència sexual o abús
+violador	sensitive	tema sensible: violència sexual o abús
+violar	sensitive	tema sensible: violència sexual o abús
+vulva	sensitive	anatomia o sexualitat; no apte com a solució
+xarnego	absolute	insult ètnic
+xino	sensitive	despectiu ètnic o religiós
+xusma	sensitive	despectiu

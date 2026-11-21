@@ -1,0 +1,86 @@
+pattern	level	reason	except
+# Regles de veto per família derivativa (vegeu docs/LEXIC.md, «Llista negra»).
+# `pattern`: expressió regular de Python ancorada a l'inici del lema (re.match).
+# `except`: lemes que hi coincideixen però no són de la família (separats per «|»).
+# Cada regla s'ha revisat sobre la llista completa de lemes del diccionari LT que hi
+# coincideixen (tool/tests/test_blacklist_roots.py en comprova el resultat).
+merd	absolute	escatològic o malsonant (família de merda)	
+cag(?!ot$|aner$|atió$|aferr)	absolute	escatològic o malsonant (família de cagar)	
+(caganer|cagatió|cagaferro|cagaferrar)$	sensitive	escatològic (tradició o tecnicisme); no apte com a solució	
+escag	absolute	escatològic o malsonant (família de cagar)	
+carall	absolute	malsonant (família de carall)	
+put(a|ada|am|ana|aner|anga|eig|ejar|enc|er|eria|eta|iclub|ifeina|o|ot|ísim)$	absolute	malsonant o ofensiu (família de puta)	
+puttanesca$	sensitive	malsonant en l'origen; no apte com a solució	
+coll(on|ó$|ut$)	absolute	malsonant (família de colló)	
+cony(a|eta)?$	absolute	malsonant (família de cony)	
+foll(ar|ada|ador)$	absolute	malsonant (sentit sexual vulgar de follar)	
+pix(?!el|idi|is$|ota)	sensitive	escatològic lleu (família de pixar)	
+pipí$	sensitive	escatològic lleu	
+fel·laci	sensitive	sexualitat	
+c[oò]pul(a|ació|ador|able|ar)$	sensitive	sexualitat	
+porn	absolute	pornografia	
+cabr(onada|oneria)$	absolute	malsonant (família de cabró)	
+cabró$	sensitive	insult (homògraf de mascle de la cabra)	
+cabre(jar|ig|jadíssim)$	sensitive	col·loquial malsonant (família de cabró)	
+fot(re|ut|udament|udíssim)$	absolute	malsonant (família de fotre)	
+fot(ral|ralada|racada|aire|ims|imer|isquejar|ris)$	sensitive	col·loquial malsonant (família de fotre)	
+tit(ola|olet|olot)$	absolute	malsonant (penis)	
+tit(a|afluixa|afreda)$	sensitive	col·loquial o malsonant (penis)	
+mam(ella|ellada|ellam|ellera|elleta|ellonat|ellot|ellut|elló|il·la|il·lar)$	sensitive	anatomia (mama)	
+punyet(a|er|erament|eria|eta)$	sensitive	col·loquial malsonant	
+sex(e|i|y|ual|ualisme|ualitat|ualització|ualitzar|ualment|uat|ofília|ofòbia|oafectiu|oafectivitat|-appeal|-shop|-symbol|ducció|torsió)$	sensitive	sexualitat	
+(afectivo|al·lo|ambi|antihomo|bi|ci|cis|demi|des|hetero|hiper|hipo|homo|inter|intra|meta|metro|mono|normo|omni|pan|para|pluri|poli|politico|psico|super|transhetero|transhomo|trans|uni)sexual	sensitive	sexualitat o identitat sexual (tema sensible)	
+petorr	sensitive	escatològic lleu (pets)	
+tif(a|arada|ejar)$	sensitive	escatològic o despectiu	
+quisca$	sensitive	escatològic lleu	
+capull(a)?$	sensitive	insult	
+maric(ó|onada)$	absolute	insult homòfob	
+(bujarró|bugarrenc)$	absolute	insult homòfob	
+gavatx	sensitive	despectiu (gentilici)	
+gitan(o|ada|alla|eria|esc|et|itat)$	sensitive	ètnia (tema sensible; usos despectius)	
+(amfetamin|drogaddic|toxicòman|haixix|marihuan|farlopa)	sensitive	tema sensible: drogues	
+(orgia|orgiasta|orgiàstic|erotisme|eròtic|eròticament)$	sensitive	sexualitat	
+(gonorr|sífilis|sifil)	sensitive	tema sensible: malaltia de transmissió sexual	
+fal·l(us|ic|isme|icisme|ocentr|ocràcia|òcrata|ocèntric|oplàstia|ectomia|itis|odínia|àlgia|orràgia|otomia)	sensitive	anatomia o sexualitat	
+(escrot|testic(le|ular|uloma)|clitor|clítor)	sensitive	anatomia sexual	
+(ejacul|esperm(a|àtic)$|espermatozo|semen$)	sensitive	sexualitat	
+forni[cq]	sensitive	sexualitat	
+pendó$	sensitive	insult sexista (homògraf de bandera)	
+(vagin|vulv)	sensitive	anatomia sexual	
+(penis|penitis|peniescrotal)$	sensitive	anatomia sexual	
+(masturb|orgasm)	absolute	sexualitat explícita	
+(neonazi|nazi|nazisme|skinhead|feixisme|feixista)	sensitive	tema sensible: ideologies d'odi	
+(topless|playboy|striptease|stripper)$	sensitive	sexualitat	
+(prostitu|prostíbul|bordell|puticlub)	sensitive	prostitució	esbordellar
+(pedòfil|pedofíl|pederast)	sensitive	tema sensible: abús	
+# Barrit sistemàtic de totes les bandes (QA pipeline-lexic, iteració 2, B1). Les regles
+# també s'apliquen al lema sense prefix derivatiu (em-, en-, re-, des-, a-…).
+bagass	absolute	malsonant o insult sexista (família de bagassa)	
+(coit|coital|coitalment)$	sensitive	sexualitat	
+copulati(u|va)$	sensitive	sexualitat (també terme gramatical, però no apte com a solució)	
+onan(isme|ista)$	sensitive	sexualitat	
+libid	sensitive	sexualitat	
+lasc(iu|ívia|ivament)$	sensitive	sexualitat	
+lux[uú]ri(a|ós|osament|ositat)$	sensitive	sexualitat	
+(lúbric|lubricitat|lúbricament)$	sensitive	sexualitat	
+concubin	sensitive	sexualitat	
+zoof[ií]l	sensitive	sexualitat (parafília)	
+incest	sensitive	tema sensible: abús	
+estupr	sensitive	tema sensible: violència sexual	
+obsc(è|ena|enitat|enament)$	sensitive	sexualitat	
+imp[uú]d(ic|ícia|icament)$	sensitive	sexualitat	
+(alcavot|proxenet|meretriu|gigoló)	sensitive	prostitució	
+(adúlter|erèctil|eunuc|banyut)$	sensitive	sexualitat	
+(sàdic|sadisme|sadomasoq|masoquis)	sensitive	sexualitat (parafília)	
+pècora$	sensitive	insult sexista	
+(femta|excrement|defeca|diarre|perianal|anus$)	sensitive	escatològic	
+orin(a|ar|al|ada|ador|s)$	sensitive	escatològic lleu	
+v[oò]mit(?!ori)	sensitive	escatològic lleu	
+(c[aà]nnabi|esnif|metadon|mescalin|opiaci|opiat|narc[oò]tic|cocaïn|ludopat)	sensitive	tema sensible: drogues o addicció	
+(genocid|parricid|matricid|fratricid|infanticid|magnicid|regicid|uxoricid|feminicid|homicid|pogrom)	sensitive	tema sensible: crim i violència extrema	
+(linxa|lapid(ar|ació)$|mutila|massacr|degoll|extermin|abusador|negrer)	sensitive	tema sensible: crim, violència extrema o esclavitud	
+(hitler|estalinis|franquis)	sensitive	tema sensible: ideologies totalitàries	
+(agitan|mulat|xuet|mongòlid)	sensitive	ètnia (tema sensible; usos despectius)	
+(cancer[oó]s|metàstasi|tumora|leprós|lepra$|alzheimer|herpes|papil·lom|autis|avort|psicòpat|sociòpat|anorèxic|bulímic|sida$|antisida$|cirrosi)	sensitive	tema sensible: malaltia greu o estigmatitzada	
+esguerrat$	sensitive	insult (discapacitat)	
+sex(ologia|òleg|òloga|ològic)	sensitive	sexualitat	

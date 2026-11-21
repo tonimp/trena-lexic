@@ -1,0 +1,4 @@
+# Fonts descarregades per tool/fetch_sources.py (no es versionen).
+tool/.cache/
+__pycache__/
+.DS_Store

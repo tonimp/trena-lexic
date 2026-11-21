@@ -1,0 +1,450 @@
+level	form	clue	verdict	note
+# Revisió manual de cada paraula daurada i la seva pista (canvi paraules-daurades, design D8).
+# Una fila per fila de daurades.tsv; `clue` = pista publicada exacta. `ok` exigeix una paraula
+# reconeixible o curiosa i una definició que ensenyi alguna cosa (no «Element químic…», «Lletra…»
+# ni una remissió). Si la pista canvia o la daurada d'un nivell canvia, test_daurades.py falla.
+2	ocàs	Posta d’un astre per l’horitzó, especialment aplicat al sol	ok	lot 1
+4	camí	Ruta, via entre dos punts	ok	lot 1
+5	braó	Part de l’extremitat superior entre l’espatlla i el colze	ok	lot 1
+9	puré	Plat d’aliments bullits triturats, entre els quals predomina la patata	ok	lot 1
+16	aeri	Que es fa o circula pel cel, com els vols	ok	lot 1
+18	rauc	So que fa la granota i el gripau	ok	lot 1
+19	suro	Escorça de l’alzina, amb la qual se’n fan taps per ampolles de vi	ok	lot 1
+25	ronda	Volta de vigilància per un lloc	ok	lot 1
+30	senó	Petita coberta triangular a la proa o la popa d’una barca	ok	lot 1
+31	verí	Substància que causa la mort o greus danys	ok	lot 1
+32	tsar	Títol ostentat per diferents reis o emperadors d’Europa oriental	ok	lot 1
+34	tacar	Embrutar amb una marca	ok	lot 1
+36	amor	Sentiment d’estimació profunda cap a una altra persona, criatura, objecte o idea	ok	lot 1
+38	copa	Recipient per contenir líquid amb un peu	ok	lot 1
+39	coda	Fragment final d’una composició musical que té caràcter conclusiu	ok	lot 1
+40	cian	Pigment blau verd	ok	lot 1
+41	cisma	Divisió o separació entre els individus d’algun cos o comunitat	ok	lot 1
+42	rient	Que fa cara alegre, de bon humor	ok	lot 1
+43	cartó	Material fet de pasta de paper endurida, emprat principalment per fer capses	ok	lot 1
+44	aspre	De superfície irregular que provoca un tacte desagradable	ok	lot 1
+45	ràfec	Part de la teulada que sobresurt del pla de la façana	ok	lot 1
+48	peso	Unitat monetària de diversos estats de l’Amèrica Llatina	ok	lot 1
+49	raïm	Fruit de la vinya	ok	lot 1
+51	rasca	Eina de picapedrer que serveix per allisar	ok	lot 1
+52	bram	Crit de l’ase, del lleó	ok	lot 1
+53	mastí	Gos de cap gros i d’orelles grosses que li pengen, però de caràcter dòcil	ok	lot 1
+54	ruda	Herba d’olor forta i gust amarg, usada en remeis casolans	ok	lot 1
+55	nuar	Unir mitjançant un nus	ok	lot 1
+56	lupa	Lent d’augment amb un vidre biconvex	ok	lot 1
+59	riell	Peça petita de metall fos en brut	ok	lot 1
+60	grall	Crit fort, estrident	ok	lot 1
+62	patró	Persona que mana en una empresa o en una embarcació	ok	lot 1
+63	larva	Forma jove d’un insecte, com l’eruga, abans de ser adult	ok	lot 1
+64	negre	Color fosc com el del carbó	ok	lot 1
+65	rull	Rínxol, cabell cargolat	ok	lot 1
+66	àton	Que no conté un accent	ok	lot 1
+67	país	Territori amb una població i un govern propis	ok	lot 1
+69	tiet	Germà del pare o de la mare, en llenguatge familiar	ok	lot 1
+70	cerra	Fil prim però resistent, generalment fet de pèl d’animal: porc, cavall	ok	lot 1
+71	senya	Tret distintiu que identifica un individu o un objecte	ok	lot 1
+72	menar	Indicar el camí que es vol	ok	lot 1
+73	èmbol	Cilindre destinat a fer entrar o eixir algun fluid en una màquina	ok	lot 1
+74	baca	Plataforma en la part superior d’un vehicle per a transportar-hi l’equipatge	ok	lot 1
+75	arca	Caixa gran amb tapa, per guardar-hi coses	ok	lot 1
+78	garrí	Cria de porc	ok	lot 1
+79	serf	Pagès medieval lligat a la terra del senyor	ok	lot 1
+80	mall	Martell gros de ferro per trencar pedres	ok	lot 1
+81	talús	Inclinació en la base d’un mur de càrrega	ok	lot 1
+82	acne	Malaltia de la pell amb grans, freqüent en l’adolescència	ok	lot 1
+83	cana	Mesura per a teles equivalent a vuit pams, uns 1,60 metres	ok	lot 1
+84	recés	Lloc tranquil i apartat on es pot descansar	ok	lot 1
+85	recar	Saber greu	ok	lot 1
+88	aire	Gasos de l’atmosfera	ok	lot 1
+89	baló	Objecte elàstic ple d’aire o d’un altre fluid	ok	lot 1
+90	dictar	Dir coses esperant que algú les anoti o les repeteixi	ok	lot 1
+91	niell	Barreja negra, generalment de sofre	ok	lot 1
+92	tint	Acció o efecte de tenyir	ok	lot 1
+93	euro	Moneda que va substituir la pesseta	ok	lot 1
+94	rusc	Construcció artificial que imita les arnes de les abelles	ok	lot 1
+95	llera	Llit fluvial	ok	lot 1
+96	colós	Estàtua de dimensions extraordinàries	ok	lot 1
+97	trio	Conjunt de tres músics o cantants que interpreten junts una obra musical	ok	lot 1
+98	metge	Professional encarregat de vetllar per la salut de les persones	ok	lot 1
+99	gall	Mascle de l’aviram, que canta a la matinada	ok	lot 1
+100	esnob	Persona que és amatent a escollir tota novetat en les idees	ok	lot 1
+102	espai	Extensió aparentment buida entre dos o més cossos; lloc	ok	lot 1
+103	truà	Home que es dedica a fer riure	ok	lot 1
+104	mini	Òxid de plom emprat en la il·lustració de llibres manuscrits	ok	lot 1
+105	eslau	Individu d’un poble indoeuropeu establert a l’Europa central i oriental	ok	lot 1
+106	torb	Vent violent que aixeca la neu del terra reduint greument la visibilitat	ok	lot 1
+107	rima	Concordança fonètica entre paraules a partir de la darrera vocal accentuada	ok	lot 1
+108	uadi	Vall o llera del riu de zones semidesèrtiques del nord de l’Àfrica	ok	lot 1
+109	berma	Replà estret al peu o al cim d’un terraplè	ok	lot 1
+110	mestre	Persona que ensenya d’altres	ok	lot 1
+111	tupè	Floc de cabells del front pentinats enlaire	ok	lot 1
+112	arrop	Most cuit al foc fins que pren la consistència de xarop	ok	lot 1
+114	espiga	Extrem de la tija en què creixen els grans dels cereals	ok	lot 1
+115	rucada	Acció poc assenyada	ok	lot 1
+116	vernís	Dissolució d’una o més substàncies resinoses en un dissolvent	ok	lot 1
+118	tofa	Espessor de cabell, de fulles	ok	lot 1
+119	edicte	Promulgació d’una disposició, resolució, citació, feta per l’autoritat competent	ok	lot 1
+120	rosca	Cilindre convex amb un ressalt o còncau amb un solc helicoidal	ok	lot 1
+121	catet	Cadascun dels costats que formen l’angle recte en un triangle rectangle	ok	lot 1
+122	elis	Expressió de befa	ok	lot 1
+123	tenis	Esport de raqueta i pilota amb una xarxa al mig	ok	lot 1
+124	rella	Extrem metàl·lic d’una arada	ok	lot 1
+125	sura	Cadascun dels 114 capítols en què es divideix l’Alcorà	ok	lot 1
+126	únic	Que no hi ha altre com ell	ok	lot 1
+128	acatar	Acceptar una ordre, situació o decisió aliena	ok	lot 1
+130	petri	De pedra	ok	lot 1
+129	escot	Obertura del vestit al voltant del coll	ok	lot 1
+87	morè	Amb la pell de color bru	ok	lot 1
+113	càrtel	Conjunt d’empreses que col·ludeixen per limitar la competència	ok	lot 1
+131	sèrum	Part líquida que queda de la sang després que es coaguli i s’elimini el coàgul	ok	lot 2
+132	vidre	Material dur, fràgil i transparent	ok	lot 2
+133	etanol	Alcohol de fórmula CH3CH2OH	ok	lot 2
+134	rònec	Dit d’allò que es troba sol	ok	lot 2
+135	aviar	Preparar-se per emprendre la marxa	ok	lot 2
+136	orde	Societat de religiosos	ok	lot 2
+137	aroma	Fragància característica d’una substància	ok	lot 2
+138	oriünd	Que és originari del lloc que s’indica	ok	lot 2
+139	raïl	Barra de ferro o d’acer laminat amb què es forma una via fèrria	ok	lot 2
+140	gerent	Persona que dirigeix la gestió i que representa una empresa, una societat	ok	lot 2
+141	clip	Pinça petita, que fa pressió pel doblec, per a subjectar objectes lleugers	ok	lot 2
+142	domar	Fer perdre la salvatgia	ok	lot 2
+143	isard	Mamífer caprí de la família dels bòvids	ok	lot 2
+144	nariu	Cadascun dels forats del nas	ok	lot 2
+146	secret	Confidència, cosa que no es pot explicar als altres	ok	lot 2
+149	rifa	Sorteig venent un nombre determinat de paperets numerats	ok	lot 2
+150	dació	Transmissió de la propietat d’un bé a canvi del pagament d’un deute	ok	lot 2
+151	rost	Zona amb molt de pendent	ok	lot 2
+152	sorn	Poc predisposat a obeir ordres, mancat de diligència	ok	lot 2
+153	invers	Oposat en relació a un altre	ok	lot 2
+154	ànode	Terminal positiu en una cel·la electrolítica	ok	lot 2
+155	mandró	Fona per a llençar pedres	ok	lot 2
+156	carreu	Pedra grossa, tallada de manera que tots els angles siguin rectes	ok	lot 2
+157	làser	Dispositiu electrònic que genera rajos de llum coherents	ok	lot 2
+158	mediat	Que no esdevé directament, sinó a través d’un altre	ok	lot 2
+159	tina	Recipient molt gran per guardar líquids	ok	lot 2
+160	penca	Tira gruixuda tallada d’un aliment	ok	lot 2
+161	estre	Inspiració del poeta	ok	lot 2
+162	puro	Cigar havà	ok	lot 2
+163	tenor	La veu masculina de cantant més aguda	ok	lot 2
+164	nacre	Substància formada per alguns mol·luscs a les seves conquilles	ok	lot 2
+166	nivell	Graó real o imaginari d’una gradació d’elevacions o de categories	ok	lot 2
+167	canós	De cabells blancs	ok	lot 2
+168	rapar	Tallar, o fer-se tallar, els cabells arran	ok	lot 2
+169	saüc	Arbust de flors blanques i baies negres	ok	lot 2
+171	sacre	Os de la columna vertebral format per les darreres cinc vèrtebres soldades	ok	lot 2
+172	niar	Construir el refugi on l’ocell pondrà i covarà els ous	ok	lot 2
+173	timpà	Membrana de l’orella present en els animals de l’ordre dels cordats	ok	lot 2
+174	clarí	Instrument aeròfon de metall, semblant a la trompeta, però de registre més agut	ok	lot 2
+175	ordit	Conjunt de fils que es posen en un teler	ok	lot 2
+176	raquis	Columna vertebral	ok	lot 2
+177	saca	Bossa gran de tela forta per transportar mercaderies	ok	lot 2
+178	barem	Taula de valors per puntuar o calcular	ok	lot 2
+179	regió	Àrea territorial de dimensions variables	ok	lot 2
+181	aldea	Llogaret o poble menor sense jurisdicció civil ni judicial	ok	lot 2
+182	corc	Larva o adult de certs coleòpters	ok	lot 2
+183	manco	Menys, en menor quantitat	ok	lot 2
+184	tendir	Mostrar propensió natural envers alguna cosa	ok	lot 2
+185	perol	Recipient de metall, amb forma de mitja esfera i dues anses	ok	lot 2
+187	gassó	Nus que es fa a una corda per disminuir la seva llargària	ok	lot 2
+188	selló	Seient petit de bicicleta, motocicleta	ok	lot 2
+189	fris	Franja decorativa horitzontal d’una paret o d’una façana	ok	lot 2
+190	garbó	Feix de sarments o de branquillons	ok	lot 2
+191	angle	Magnitud que mesura la inclinació d’una recta respecte d’una altra	ok	lot 2
+192	morsa	Mamífer carnívor semiaquàtic de la família dels odobènids	ok	lot 2
+194	repte	Objectiu al qual hom dona prioritat i que requereix cert esforç	ok	lot 2
+195	melsa	Òrgan vascular, situat sota el diafragma i darrere l’estómac	ok	lot 2
+196	ètic	Relatiu als principis morals	ok	lot 2
+198	fàmul	Criat o servent, especialment en un col·legi religiós	ok	lot 2
+199	àtic	Pis més alt d’un edifici, sovint amb terrassa	ok	lot 2
+200	sella	Seient que es col·loca al llom dels cavalls	ok	lot 2
+201	tràmec	Aixada de dues puntes, aixadella	ok	lot 2
+202	regalia	Privilegi, prerrogativa o dret que té algú sobre els seus dominis o assumptes	ok	lot 2
+203	paeria	Ajuntament	ok	lot 2
+204	sedició	Incitació organitzada de rebel·lió contra l’autoritat establerta	ok	lot 2
+206	rial	Riera petita	ok	lot 2
+207	teia	Estella de pi resinós que crema fàcilment	ok	lot 2
+208	cresol	Llàntia per a fer llum amb oli i un ble	ok	lot 2
+209	eslip	Calçotets curts i sense camals	ok	lot 2
+210	sami	Del poble indígena del nord d’Escandinàvia	ok	lot 2
+212	copte	Membre de l’Església cristiana monofisita d’Egipte	ok	lot 2
+213	sonet	Estrofa poètica composta per catorze versos amb un nombre de síl·labes variable	ok	lot 2
+214	escar	Posar l’esquer a l’ham, a un ormeig de pesca	ok	lot 2
+215	sari	Vestit femení, tradicional del subcontinent indi	ok	lot 2
+216	aparat	Ostentació d’un acte	ok	lot 2
+217	servar	Mantenir o guardar, com el silenci o la paraula donada	ok	lot 2
+218	ascla	Fragment de pedra trencada	ok	lot 2
+219	foca	Vell marí	ok	lot 2
+220	sidra	Beguda alcohòlica feta amb suc de poma fermentat	ok	lot 2
+221	atuell	Estri còncau de terrissa, de metall, de vidre	ok	lot 2
+222	sermó	Discurs efectuat per un sacerdot	ok	lot 2
+223	apart	Allò que es diu suposant que no se sent, especialment en el teatre	ok	lot 2
+224	sagí	Greix animal	ok	lot 2
+225	areny	Terreny format principalment per sorra	ok	lot 2
+226	raor	Navalla per afaitar	ok	lot 2
+227	tàmil	Individu del poble de l’Índia meridional i del nord de Sri Lanka	ok	lot 2
+228	adir	Acceptar o admetre una herència	ok	lot 2
+229	ràtio	Quocient de dues magnituds o dues quantitats que són objecte de comparació	ok	lot 2
+230	recto	Costat frontal d’un full de paper	ok	lot 2
+231	aorta	Artèria principal del sistema circulatori	ok	lot 2
+232	carreta	Vehicle de tracció animal	ok	lot 7 (QA M2: substitueix crater)
+233	safir	Pedra preciosa de color blau intens i transparent	ok	lot 2
+234	niuada	Conjunt de pollets que neixen d’una mateixa covada	ok	lot 2
+235	tible	Instrument aeròfon anàleg a l’oboè	ok	lot 2
+236	estria	Solc marcat sobre un material dur: metall, fusta	ok	lot 2
+237	traüt	Renou, moviment bulliciós	ok	lot 2
+238	perla	Figura nacrada, normalment rodona o ovalada	ok	lot 2
+239	mono	Dit del so gravat i reproduït per un sol canal	ok	lot 2
+240	crugia	En un vaixell, pla vertical que passa just pel seu mig de proa a popa	ok	lot 2
+241	judo	Art marcial japonesa	ok	lot 2
+242	adret	Ben format i sa de cos	ok	lot 2
+243	càdec	Arbust de la família de les cupressàcies propi de la terra baixa mediterrània	ok	lot 2
+244	atles	Col·lecció de mapes	ok	lot 2
+246	rabejar	Ficar en aigua fins que resti moll	ok	lot 2
+247	catau	Cau, amagatall	ok	lot 2
+249	minso	D’escassa quantitat	ok	lot 2
+250	ítem	Apartat d’un qüestionari	ok	lot 2
+252	ordi	Cereal d’espigues denses amb llargues arestes	ok	lot 7 (QA M2: cascada; odiar exclosa)
+253	ansa	Part corbada d’un objecte per on s’agafa	ok	lot 2
+254	pícea	Gènere d’arbres que són coníferes de fulles persistents	ok	lot 2
+255	granat	Mineral del grup dels silicats format per un metall bivalent i un de trivalent	ok	lot 2
+256	areng	Peix dels clupeids semblant a la sardina, però més gros	ok	lot 2
+257	sereno	Vigilant nocturn d’un barri o població	ok	lot 2
+258	crin	Pèl aspre del bescoll i la cua de certs animals, especialment cavalls	ok	lot 2
+259	burxa	Bastó curt de ferro acabat en punxa	ok	lot 2
+186	aürt	Cop, xoc, topada brusca	ok	lot 3
+263	drenar	Evacuar l’excés d’aigua d’un terreny humit	ok	lot 3
+264	seitó	Peix de la família dels clupeids, semblant a la sardina però més prim	ok	lot 3
+265	ateu	Persona que creu que Déu no existeix	ok	lot 3
+266	trossa	Cabells recollits caragolant-los	ok	lot 3
+267	brial	Vestit femení de tela fina des de la cintura fins als peus	ok	lot 3
+268	grisú	Gas inflamable, principalment metà	ok	lot 3
+269	sapastre	Que fa malament la feina	ok	lot 3
+270	gurmet	Versat en gastronomia, coneixedor del bon menjar i del bon beure	ok	lot 3
+271	pansa	Gra de raïm dessecat al sol	ok	lot 3
+272	bast	Albarda curta que porta una bèstia de càrrega	ok	lot 3
+273	llim	Tipus de terreny format per la unió d’aigua i terra	ok	lot 3
+274	sagal	Noi que fa de mosso d’un pastor	ok	lot 3
+275	claca	En un teatre, públic pagat per aplaudir	ok	lot 3
+277	copet	Toc suau amb la mà, per animar o felicitar	ok	lot 3
+278	cegar	Fer perdre la visió o la vista	ok	lot 3
+279	cras	Molt gros, grosser, indisculpable	ok	lot 3
+280	igni	Produït per l’acció del foc	ok	lot 3
+281	maula	Artifici d’engany	ok	lot 3
+282	tort	Perjudici, malifeta o dany, causat sense justificació	ok	lot 3
+283	gitar	Llançar, tirar	ok	lot 3
+284	allau	Massa de neu que es desprèn sobtadament i cau muntanya avall	ok	lot 3
+285	tíbia	Os de la part interna de la cama dels vertebrats, entre el genoll i el turmell	ok	lot 3
+286	retoc	Petit canvi per acabar o millorar una obra	ok	lot 3
+288	oimés	Sobretot	ok	lot 3
+289	barroer	Que fa les coses amb poca finor	ok	lot 3
+290	càlam	Planta herbàcia de la família de les aràcies coneguda pel seu oli aromàtic	ok	lot 3
+291	oratge	Temps atmosfèric	ok	lot 3
+292	nucleó	Un protó o un neutró	ok	lot 3
+293	capir	Entendre	ok	lot 3
+294	talió	Càstig igual al dany causat	ok	lot 3
+295	arcaic	Que és molt antic o que té molts anys	ok	lot 3
+296	vespra	El dia d’abans d’allò que s’està explicant en una narració	ok	lot 3
+299	alberg	Lloc on es dona allotjament transitori o provisional	ok	lot 3
+300	enterc	Dit d’un objecte, rígid, inflexible, encarcarat	ok	lot 3
+301	asil	Lloc protegit per als perseguits	ok	lot 3
+302	noli	Preu que es paga pel transport o tragí i arrendament d’una nau	ok	lot 3
+303	caspa	Descamació de la pell del cap	ok	lot 3
+304	artiga	Terra de conreu preparada cremant el sotabosc i la brossa	ok	lot 3
+305	caneló	Rotlle fet amb pasta de blat	ok	lot 3
+306	espart	Planta gramínia de fulles linears molt tenaces usades com a matèria tèxtil	ok	lot 3
+307	rossí	Cavall que no és de raça	ok	lot 3
+308	noiet	Infant petit, marrec	ok	lot 3
+310	trepar	Fer forats amb una eina	ok	lot 3
+311	cleda	Tancat per recollir el bestiar o l’aviram d’una granja	ok	lot 3
+312	enuig	Sentiment d’ira, ràbia i descontentament	ok	lot 3
+313	estic	Bastó acabat amb una part inferior corba	ok	lot 3
+315	ardu	Molt difícil i costós de fer	ok	lot 3
+316	artell	Articulació dels dits de la mà i del peu	ok	lot 3
+317	rasclet	Eina consistent en una filera de pues unides a un pal	ok	lot 3
+318	caiac	Embarcació lleugera, feta de pell, tradicional dels esquimals	ok	lot 3
+319	guisa	Manera de fer	ok	lot 3
+320	aleví	Esportista entre nou i onze anys	ok	lot 3
+321	tinell	Prestatge per posar plats	ok	lot 3
+322	desoir	No fer cas de consells o ordres donades	ok	lot 3
+323	trena	Cabells entrellaçats en forma de cordó	ok	lot 3
+324	pètal	Cadascuna de les peces que componen la corol·la	ok	lot 3
+325	carpa	Envelat, especialment d’un circ	ok	lot 3
+327	vàter	Receptacle de ceràmica col·locat damunt d’un tub	ok	lot 3
+328	roent	Molt calent, com el ferro al foc	ok	lot 3
+329	canapè	Sofà lleuger entapissat amb un respatller per a cada seient	ok	lot 3
+330	norai	Peça de ferro o pedra que hi ha als molls com a amarrador de vaixells	ok	lot 7 (QA M2: cascada des del 252; roina exclosa)
+331	paté	Pasta de fetge o de carn, assaonada i cuita	ok	lot 3
+332	renoc	Cosa inútil	ok	lot 3
+333	tiara	Corona alta que portava el papa	ok	lot 3
+334	vermell	De color de la sang i de les roselles	ok	lot 3
+335	midó	Fècula dels cereals i la patata, que també serveix per endurir la roba	ok	lot 3
+336	incoar	Començar	ok	lot 3
+337	garbí	Vent del sud-oest	ok	lot 3
+338	làmia	Tauró blanc	ok	lot 3
+339	falca	Peça de fusta que es fa servir per mantenir dreta una estructura	ok	lot 3
+340	vira	Sageta de cos prim de punta molt aguda utilitzada típicament en la ballesta	ok	lot 3
+341	rapa	Part carnosa del raïm, sense pellofa ni grans	ok	lot 3
+342	cresp	Molt arrissat	ok	lot 3
+344	dent	Peça d’os de la boca que serveix per mastegar els aliments	ok	lot 3
+345	bisell	Vora o contorn tallat de forma obliqua	ok	lot 3
+346	unió	Acció d’ajuntar dues o més coses	ok	lot 3
+347	tendó	Teixit fibrós i una mica elàstic que uneix els músculs amb els ossos	ok	lot 3
+348	morro	Part sortint de la cara dels animals	ok	lot 3
+349	obac	Ombrívol	ok	lot 3
+351	tralla	Corda o corretja de cuir fixada a l’extrem d’unes xurriaques	ok	lot 3
+352	escai	Producte plàstic que imita el cuir	ok	lot 3
+353	trago	Glop, tirada	ok	lot 3
+354	paraire	Persona que es dedica a la preparació de la llana	ok	lot 3
+355	misser	Tractament donat a les persones lletrades i a l’autoritat	ok	lot 3
+356	nimi	Excessiu	ok	lot 3
+357	bres	Llitet de nadó que es pot gronxar	ok	lot 3
+358	argue	Torn vertical que fa d’eix a una corda per a moure objectes pesants	ok	lot 3
+359	imant	Cos que té la propietat natural d’atreure el ferro o l’acer	ok	lot 3
+360	estofar	Coure a foc lent en un recipient ben tapat	ok	lot 3
+362	trama	Conjunt de fils que són la base d’un teixit	ok	lot 3
+363	xaloc	Vent que bufa del sud-est	ok	lot 3
+364	trol	Gegant o gnom que viu en llocs solitaris	ok	lot 3
+365	aliar	Unir o col·ligar diferents pobles en virtut d’un tractat	ok	lot 3
+366	vesta	Túnica llarga	ok	lot 3
+367	arment	Ramat de bous o cavalls	ok	lot 3
+368	taigà	Bioma caracteritzat per la vegetació de coníferes	ok	lot 3
+369	levitar	Mantenir-se en suspensió sense cap suport	ok	lot 3
+370	munir	Proveir d’equipaments per a la defensa d’una plaça o la subsistència d’una tropa	ok	lot 3
+148	raure	Raspar amb un instrument tallant per treure les adherències de la superfície	ok	lot 4
+297	iota	Quantitat minúscula	ok	lot 4
+314	coca	Bescuit de poc gruix, la massa del qual fermenta abans d’enfornar	ok	lot 4
+350	dejorn	A primera hora del matí	ok	lot 4
+372	sorbet	Gelat poc consistent	ok	lot 4
+373	tromba	Núvol de forma cònica	ok	lot 4
+374	lustre	Període de cinc anys	ok	lot 4
+375	suplir	Assumir la responsabilitat o el lloc de treball	ok	lot 4
+376	sicle	Antiga unitat de pes usada a Babilònia i a Israel	ok	lot 4
+377	longa	Figura musical amb el doble de durada d’una quadrada, pràcticament obsoleta	ok	lot 4
+378	uixer	Treballador d’un jutjat no lletrat	ok	lot 4
+379	boia	Objecte flotant que fa de punt de referència enmig de la mar	ok	lot 4
+380	verro	Porc semental	ok	lot 4
+381	asteca	Individu d’un poble nahua	ok	lot 4
+382	coet	Artefacte pirotècnic amb un cilindre de pólvora	ok	lot 4
+383	creueta	Cadascuna de les dues interseccions d’un travesser amb els pals de la porteria	ok	lot 4
+386	llaga	Nafra, úlcera	ok	lot 4
+387	saure	Subordre de rèptils, de cos allargat amb escates	ok	lot 4
+388	ídem	La mateixa cosa	ok	lot 4
+389	anta	Pilastra que reforça l’extrem d’una paret	ok	lot 4
+391	covar	Donar caliu els ocells als seus ous	ok	lot 4
+393	verinós	Animal o planta que produeix substàncies tòxiques	ok	lot 4
+394	placer	Sediment al·luvial amb partícules de minerals preciosos	ok	lot 4
+395	ètnic	Relatiu a un poble amb cultura i llengua pròpies	ok	lot 4
+396	tafur	Freqüentador de cases de joc	ok	lot 4
+397	ínfim	Molt petit i poc rellevant	ok	lot 4
+398	decés	Mort d’una persona	ok	lot 4
+399	saciar	Sadollar	ok	lot 4
+400	esteva	Part de l’arada que té per funció poder-la subjectar per a llaurar	ok	lot 4
+401	forest	Boscúria, selva	ok	lot 4
+402	congre	Peix anguil·liforme, sense escates, que habita a prop de la costa	ok	lot 4
+403	sima	Avenc, cavitat profunda a la roca	ok	lot 4
+404	most	Suc de raïm sense fermentar	ok	lot 4
+405	nona	Darrera part del dia romà	ok	lot 4
+406	cicuta	Herba altament tòxica, emprada com a verí en l’antiguitat	ok	lot 4
+408	ignot	Desconegut, especialment un territori, continent	ok	lot 4
+409	asbest	Mineral de serpentina o amfíbol en fibres llargues, fines i paral·leles	ok	lot 4
+410	cimal	Branca principal d’un arbre	ok	lot 4
+411	tipi	Tenda cònica dels indis de les praderies	ok	lot 4
+412	desar	Posar en lloc segur	ok	lot 4
+413	torcar	Netejar fregant una superfície bruta de matèria pastosa o enganxosa	ok	lot 4
+414	envit	Moment del joc en què es pot fer una invitació a apostar	ok	lot 4
+415	trenc	Esquerda o ferida produïda per un cop	ok	lot 4
+416	saia	Antiga tela lleugera per fer peces de vestir	ok	lot 4
+417	recte	Que no fa corbes ni angles	ok	lot 4
+418	torrar	Escalfar una cosa al foc, cremar-la superficialment, fins que prengui color	ok	lot 4
+419	plaure	Agradar, ésser grat	ok	lot 4
+420	flac	Molt prim, que no té gaire carn ni greix	ok	lot 4
+421	ullar	Mirar amb atenció i insistència	ok	lot 4
+422	sisme	Terratrèmol	ok	lot 4
+423	carmí	Pigment obtingut de la cotxinilla	ok	lot 4
+425	troica	Vehicle tradicional rus	ok	lot 4
+426	rímel	Maquillatge cosmètic consistent en una pasta a base d’oli	ok	lot 4
+427	cossi	Recipient gran de forma troncocònica	ok	lot 4
+428	incís	Proposició que introdueix una interrupció, generalment per afegir un aclariment	ok	lot 4
+429	podi	Base de pedra sobre la qual reposen columnes	ok	lot 4
+430	maça	Arma emprada a l’edat mitjana per a copejar l’enemic	ok	lot 4
+431	sirga	Corda gruixuda emprada per arrossegar embarcacions contra corrent	ok	lot 4
+432	trull	Local on es fabrica oli	ok	lot 4
+433	anodí	Inofensiu i ineficaç, amb efecte nul	ok	lot 4
+434	vedet	Artista femenina principal d’un espectacle de varietats o de revista	ok	lot 4
+435	cupè	Automòbil amb carrosseria aerodinàmica de dues portes	ok	lot 4
+436	estàtic	Sense moviment	ok	lot 4
+437	suèter	Jersei gruixut de llana	ok	lot 4
+438	gènesi	Moment en què comença un procés	ok	lot 4
+439	mede	Individu d’un poble irànic que va establir un imperi en l’Orient Mitjà	ok	lot 4
+440	aspa	Cadascun dels braços d’un molí de vent	ok	lot 4
+441	ègida	Escut protector associat a Zeus i Atena consistent en una capa de pell de cabra	ok	lot 4
+442	raucar	Cridar la granota o el gripau	ok	lot 4
+443	gesta	Acció, fita memorable	ok	lot 4
+444	cotna	Pell grossa i dura de certs aliments, cansalada, pernil, formatge	ok	lot 4
+445	fitora	Instrument de ferro de dues o més puntes, amb mànec, que serveix per pescar	ok	lot 4
+446	bric	Envàs per a líquids, típicament de forma rectangular	ok	lot 4
+448	forment	Blat comú, blat blancal	ok	lot 4
+449	patac	Cop violent	ok	lot 4
+450	fiola	Recipient de vidre per a contenir poca quantitat de líquid	ok	lot 4
+451	goleta	Vaixell amb dos o tres pals amb veles quadrades	ok	lot 4
+452	piragua	Embarcació lleugera, allargassada i estreta	ok	lot 4
+453	visar	Verificar un document perquè tingui validesa	ok	lot 4
+454	tètric	D’aparença trista i depriment	ok	lot 4
+455	pleta	Lloc tancat on pastura el bestiar	ok	lot 4
+456	tronera	Finestra d’una embarcació o fortificació per on dispara l’artilleria	ok	lot 4
+457	avar	Que estalvia molt amb l’objectiu d’acumular possessions	ok	lot 4
+458	rascle	Instrument agrícola de fusta amb claus o pues per passar per damunt la terra	ok	lot 4
+459	tany	Brot tendre o branca jove d’un arbre	ok	lot 4
+460	tesina	Treball de final de carrera	ok	lot 4
+461	senar	Referit a un nombre enter, que no es pot dividir per dos	ok	lot 4
+462	acarar	Confrontar unes persones amb unes altres amb el fi d’esbrinar la veritat	ok	lot 4
+463	epítet	Tipus d’adjectiu que no té una funció especificadora	ok	lot 4
+464	abstemi	Persona que mai ingereix begudes alcohòliques	ok	lot 4
+465	xera	Gest o paraules que demostren afecte	ok	lot 4
+467	cabre	Poder una cosa estar dins d’una altra o bé dins d’un entorn	ok	lot 4
+468	circa	Al voltant de	ok	lot 4
+469	nociu	Que perjudica, en especial a la salut	ok	lot 4
+470	verso	Costat posterior d’un full de paper	ok	lot 4
+471	motí	En l’exèrcit, alçament de la tropa o part d’ella contra els seus superiors	ok	lot 4
+472	gules	Roig intens	ok	lot 4
+473	monsó	Vent que bufa periòdicament sobretot als mars tropicals del sud d’Àsia	ok	lot 4
+474	pinc	Tipus de vaixell, usat principalment al segle XVIII a la Mediterrània	ok	lot 4
+475	agrest	Tal com l’ha fet la natura, sense canvis produïts per l’ésser humà	ok	lot 4
+476	glera	Terreny ple de pedruscall	ok	lot 4
+477	picarol	Cascavell	ok	lot 4
+478	orbe	El món, la Terra sencera	ok	lot 4
+479	landa	Matollar dens propi de l’Europa amb clima atlàntic i plujós	ok	lot 4
+480	cadarn	Fluxió o destil·lació que ataca el nas, la boca o el pit	ok	lot 4
+193	estibar	Col·locar adequadament la càrrega en una nau	ok	lot 4
+361	tetera	Recipient amb bec per fer infusions	ok	lot 4
+117	atuir	Quedar com mort	ok	lot 5 (repàs final)
+127	clava	Garrot gruixut que s’eixampla cap a la punta	ok	lot 5 (repàs final)
+205	nècora	Cranc comestible de la família dels portúnids	ok	lot 5 (repàs final)
+251	laca	Substància emprada per a mantindre fix el pentinat	ok	lot 5 (repàs final)
+262	encís	Poder de fascinar que té una persona o una cosa	ok	lot 5 (repàs final)
+326	burí	Estri de metall emprat per foradar o gratar materials com el cuir o el metall	ok	lot 5 (repàs final)
+384	pera	Fruit en forma de gota, de polpa dolça i sucosa	ok	lot 5 (repàs final)
+390	nadar	Moure’s dins l’aigua sense tocar el fons	ok	lot 5 (repàs final)
+15	rosa	Flor de jardí de bona flaire, amb espines a la tija	ok	lot 6 (coherència amb apres_exclusions)
+57	posa	Actitud del cos que adopta algú per ser retratat	ok	lot 6 (coherència amb apres_exclusions)
+145	assot	Instrument emprat antigament per castigar amb cops els delinqüents	ok	lot 6 (coherència amb apres_exclusions)
+147	somera	Femella de l’ase	ok	lot 6 (coherència amb apres_exclusions)
+165	telamó	Atlant, estàtua o figura humana que serveix de columna o pilar en arquitectura	ok	lot 6 (coherència amb apres_exclusions)
+170	barra	Peça recta i llarga de secció uniforme	ok	lot 6 (coherència amb apres_exclusions)
+180	mestral	Vent que bufa procedent del nord-oest	ok	lot 6 (coherència amb apres_exclusions)
+197	taleca	Bossa de roba per a dur-hi coses petites	ok	lot 6 (coherència amb apres_exclusions)
+211	criat	Persona que fa les feines domèstiques per a un amo	ok	lot 6 (coherència amb apres_exclusions)
+245	agró	Ocell camallarg de zones humides, de bec llarg i coll prim	ok	lot 6 (coherència amb apres_exclusions)
+248	natiu	Innat, obtingut amb la naixença	ok	lot 6 (coherència amb apres_exclusions)
+260	merla	Ocell de la família dels muscicàpids, de plomatge negre i bec groc	ok	lot 6 (coherència amb apres_exclusions)
+261	alena	Eina llarga i prima que serveix per foradar, normalment usada per sabaters	ok	lot 6 (coherència amb apres_exclusions)
+276	enemic	Contrari a algú	ok	lot 6 (coherència amb apres_exclusions)
+287	soia	Llegum oriental que dona oli i una mena de llet	ok	lot 6 (coherència amb apres_exclusions)
+298	sedàs	Estri circular amb una reixeta al fons	ok	lot 6 (coherència amb apres_exclusions)
+309	gaita	Sac de gemecs	ok	lot 6 (coherència amb apres_exclusions)
+343	miol	Crit que emet el gat	ok	lot 6 (coherència amb apres_exclusions)
+371	escrit	Text, document redactat	ok	lot 6 (coherència amb apres_exclusions)
+392	ermini	Mamífer de la família dels mustèlids apreciat pel pelatge	ok	lot 6 (coherència amb apres_exclusions)
+407	tren	Vehicle de transport col·lectiu format per un comboi de diversos vagons	ok	lot 6 (coherència amb apres_exclusions)
+424	orenga	Planta aromàtica, perenne, de la família de les lamiàcies	ok	lot 6 (coherència amb apres_exclusions)
+447	solt	Alliberat d’un lligam o vincle	ok	lot 6 (coherència amb apres_exclusions)

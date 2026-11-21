@@ -1,0 +1,15 @@
+lemma	action	reason
+# Lemes retirats com a solució (canvi retirar-solucions-dubtoses, decisió del director de 25/10/2026).
+# Continuen a accepted.tsv (intent vàlid) però surten de solutions.tsv amb totes les flexions
+# atribuïdes al lema; el rànquing de la resta no canvia. Detall: docs/qa/revisio-pistes-dificils.md
+acci	no_solution	gentilici històric de l’antiga Acci (Àccium) sense ús; només resoluble per erudits
+batí	no_solution	el DIEC2 no té el nom (només formes de «batre»); nom només al diccionari LT
+elina	no_solution	no és al DIEC2 (consulta del 25/10/2026); planta alpina sense ús general
+isme	no_solution	no és al DIEC2 (consulta del 25/10/2026); Softcatalà el marca com a derivat
+luti	no_solution	el DIEC2 només el recull en «cos luti» i «màcula lútia»; no s’usa sol
+nentsi	no_solution	no és al DIEC2 (consulta del 25/10/2026); etnònim rar del diccionari LT
+rafi	no_solution	terme local de la pesca valenciana sense ús general
+reiet	no_solution	no és al DIEC2 (consulta del 25/10/2026); sentit incert
+seta	no_solution	el DIEC2 només té el sentit botànic; el jugador hi veu el castellanisme per «bolet»: pista enganyosa
+septe	no_solution	terme d’anatomia i biologia sense ús general (també el plural «septes»)
+trac	no_solution	el DIEC2 no té el nom (només formes de «treure»); gal·licisme del diccionari LT

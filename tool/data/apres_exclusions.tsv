@@ -1,0 +1,157 @@
+form	reason
+# Formes retirades de «Has après» (canvi has-apres, docs/LEXIC.md §9). Continuen sent solució
+# i tenen la mateixa pista a l’ajuda «Pista»: només deixen de sortir a la targeta. Cada forma ha
+# de ser solució d’algun puzle del banc (si no, build_apres.py falla nomenant la línia).
+# Revisió manual del 26/10/2026 de les 455 grafies elegibles (apres_reviews.tsv).
+# paraula d’ús corrent
+regar	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+rostit	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+porra	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+rotlle	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+sonor	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+litre	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+vals	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+penós	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+elit	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+arpa	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+bata	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+agre	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+agra	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+tona	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+nuca	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+falcó	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+coca	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+astres	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+novè	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+bust	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+oral	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+tapís	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+naps	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+trena	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+àtom	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+atles	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+làmina	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+oasi	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+apte	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+letal	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+lupa	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+ètic	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+retall	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+àtic	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+oval	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+ostra	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+rols	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+tetera	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+grua	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+cava	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+nasal	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+cometa	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+meta	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+lava	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+cuca	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+untar	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+avet	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+avets	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+lots	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+tacar	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+àudio	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+lila	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+avellana	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+coco	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+nevat	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+imant	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+flac	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+tirs	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+tió	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+tions	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+dofí	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+espuma	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+torrons	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+canelons	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+morè	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+# element químic
+sodi	element químic: la definició (nombre atòmic i símbol) no ensenya res
+platí	element químic: la definició (nombre atòmic i símbol) no ensenya res
+tori	element químic: la definició (nombre atòmic i símbol) no ensenya res
+iode	element químic: la definició (nombre atòmic i símbol) no ensenya res
+curi	element químic: la definició (nombre atòmic i símbol) no ensenya res
+liti	element químic: la definició (nombre atòmic i símbol) no ensenya res
+argó	element químic: la definició (nombre atòmic i símbol) no ensenya res
+# definició que no ensenya res
+errar	definició que no ensenya res: un sinònim o una sola idea mínima
+nuls	definició que no ensenya res: un sinònim o una sola idea mínima
+vitri	definició que no ensenya res: un sinònim o una sola idea mínima
+# sentit no general o massa restringit de la definició
+místic	sentit no general o massa restringit de la definició
+peons	sentit no general o massa restringit de la definició
+mats	sentit no general o massa restringit de la definició
+# definició ambigua o incompleta
+tanc	definició ambigua o incompleta
+llot	definició ambigua o incompleta
+pies	definició ambigua o incompleta
+# plural d’un nom de lloc únic; es confon amb els orcs de la fantasia
+orcs	plural d’un nom de lloc únic; es confon amb els orcs de la fantasia
+# crac és una onomatopeia
+crac	crac és una onomatopeia
+# to despectiu o connotació poc adequada per a una targeta d’aprenentatge
+erecte	to despectiu o connotació poc adequada per a una targeta d’aprenentatge
+paia	to despectiu o connotació poc adequada per a una targeta d’aprenentatge
+neci	to despectiu o connotació poc adequada per a una targeta d’aprenentatge
+# tema sensible
+coix	tema sensible: discapacitat, malaltia o salut mental d’una persona
+ranc	tema sensible: discapacitat, malaltia o salut mental d’una persona
+insà	tema sensible: discapacitat, malaltia o salut mental d’una persona
+tísic	tema sensible: discapacitat, malaltia o salut mental d’una persona
+# homògraf
+osca	homògraf: la pista és del nom «osca» (trencat en un tall), no del femení d’«osc»
+# QA has-apres (26/10/2026)
+caramel	paraula d’ús corrent; la pista de temporada és una pista, no una definició (QA D2)
+tries	el lema de «tries» al LT és «tries» (Triàsic) però la pista és del plural de «tria» (QA O2)
+iranià	gentilici definit per la capital: no diu el país (QA O1)
+letó	gentilici definit per la capital: no diu el país (QA O1)
+lituà	gentilici definit per la capital: no diu el país (QA O1)
+sard	gentilici definit per una perífrasi: no diu l’illa (QA O1)
+simi	definició imprecisa: un simi és un animal, no un infraordre (QA O3)
+allau	paraula d’ús corrent i sinònim de «llau»: la targeta del nivell 259 les juntava (QA O8)
+clip	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora) (QA O6)
+laca	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora) (QA O6)
+blues	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora) (QA O6)
+crep	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora) (QA O6)
+tina	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora) (QA O6)
+larva	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora) (QA O6)
+guarnir	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora) (QA O6)
+rifa	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora) (QA O6)
+acne	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora) (QA O6)
+espot	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora) (QA O6)
+# tandes-i-estrelles (27/10/2026): grafies noves del banc de nivells regenerat
+aleta	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+cartó	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+cigne	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+ciri	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+cranc	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+divers	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+duana	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+estaca	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+estètic	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+làser	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+niló	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+rancor	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+rugir	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+tòpic	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+àncores	definició poc informativa com a ensenyament («Aparell, normalment metàl·lic»)
+piular	definició poc natural com a ensenyament («Els ocells petits, cridar»)
+foca	daurada del nivell 219: una daurada no pot ser a «Has après» i la llista de daurades no canvia (madeixes-tematiques)
+mestral	daurada del nivell 180: una daurada no pot ser a «Has après» i la llista de daurades no canvia (madeixes-tematiques)
+sacre	daurada del nivell 171: una daurada no pot ser a «Has après» i la llista de daurades no canvia (madeixes-tematiques)
+# 05/11/2026 mes-tematiques 1.7 (segona tanda de temàtiques)
+ballarí	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+martell	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+menta	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+pebrot	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+plàtans	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+préssec	paraula d’ús corrent: la coneix qualsevol parlant (el corpus la infravalora)
+espiga	daurada del nivell 114: una daurada no pot ser a «Has après» i la llista de daurades no canvia (mes-tematiques)
+rella	daurada del nivell 124: una daurada no pot ser a «Has après» i la llista de daurades no canvia (mes-tematiques)
+paraire	daurada del nivell 354: una daurada no pot ser a «Has après» i la llista de daurades no canvia (mes-tematiques)
+eruga	extra candidata a daurada de nivells del banc general: si entra a «Has après», la llista de daurades canvia (mes-tematiques)
+rega	extra candidata a daurada de nivells del banc general: si entra a «Has après», la llista de daurades canvia (mes-tematiques)

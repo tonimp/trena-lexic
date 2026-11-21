@@ -1,0 +1,149 @@
+lemma	action	reason
+# Revisió dels estrangerismes (vegeu docs/LEXIC.md, «Estrangerismes»).
+# allow: català, pot ser solució; accept: normatiu amb grafia estrangera, només intent;
+# no_solution: acceptat com a intent però mai solució; reject: no s'accepta enlloc.
+aleshores	allow	mot català: la seqüència marcada és una frontera de morfema
+al·loocimè	allow	mot català: la seqüència marcada és una frontera de morfema
+apartheid	accept	DIEC2 el recull (consulta individual 2026-10-24); grafia estrangera: intent vàlid, no solució
+apreci	allow	mot català patrimonial o plenament adaptat (la font esadir només documenta l'ús)
+avanttrèn	allow	mot català: la seqüència marcada és una frontera de morfema
+banlieue	reject	manlleu no adaptat de font esadir, sense adaptació gràfica catalana
+blog	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+bob	reject	manlleu no adaptat absent del DIEC2 (consulta individual 2026-10-24)
+bourbon	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+bridge	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+caciquil	allow	mot català patrimonial o plenament adaptat (la font esadir només documenta l'ús)
+cappare	allow	mot català: la seqüència marcada és una frontera de morfema
+cappatró	allow	mot català: la seqüència marcada és una frontera de morfema
+capplà	allow	mot català: la seqüència marcada és una frontera de morfema
+cappont	allow	mot català: la seqüència marcada és una frontera de morfema
+comandant	allow	mot català patrimonial o plenament adaptat (la font esadir només documenta l'ús)
+corner	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+cristo	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+croissant	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+cruzado	no_solution	el DIEC2 el recull (moneda), però com a solució sembla un castellanisme
+curandero	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+dharma	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+drang	reject	manlleu no adaptat (alemany) sense ús general en català
+dring	allow	mot català (onomatopeia); sense grafia estrangera real
+démodé	reject	manlleu no adaptat de font esadir, sense adaptació gràfica catalana
+ensemble	reject	manlleu no adaptat de font esadir, sense adaptació gràfica catalana
+epíploon	allow	mot català: la seqüència marcada és una frontera de morfema
+flema	allow	mot català patrimonial o plenament adaptat (la font esadir només documenta l'ús)
+fox	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+gentleman	reject	manlleu no adaptat absent del DIEC2 (consulta individual 2026-10-24)
+golden	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+hall	reject	manlleu no adaptat absent del DIEC2 (consulta individual 2026-10-24)
+hipster	reject	manlleu no adaptat absent del DIEC2 (consulta individual 2026-10-24)
+hub	reject	manlleu no adaptat de font esadir, sense adaptació gràfica catalana
+indie	reject	manlleu no adaptat de font esadir, sense adaptació gràfica catalana
+input	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+intendent	allow	mot català patrimonial o plenament adaptat (la font esadir només documenta l'ús)
+jazz	accept	DIEC2 el recull (consulta individual 2026-10-24); grafia estrangera: intent vàlid, no solució
+jet	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+karate	accept	DIEC2 el recull (consulta individual 2026-10-24); grafia estrangera: intent vàlid, no solució
+land	reject	manlleu no adaptat de font esadir, sense adaptació gràfica catalana
+lied	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+mail	reject	manlleu no adaptat absent del DIEC2 (consulta individual 2026-10-24)
+mesoovari	allow	mot català: la seqüència marcada és una frontera de morfema
+milord	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+minorista	allow	mot català patrimonial o plenament adaptat (la font esadir només documenta l'ús)
+mister	reject	manlleu no adaptat absent del DIEC2 (consulta individual 2026-10-24)
+nasooral	allow	mot català: la seqüència marcada és una frontera de morfema
+noocràcia	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+noologia	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+noològic	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+noometria	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+nooscòpia	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+noosfera	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+noostènic	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+nootròpic	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+nòria	allow	mot català patrimonial o plenament adaptat (la font esadir només documenta l'ús)
+ooblast	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oocentre	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oociesi	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oocinesi	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oocinet	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oocist	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oocitasa	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oocitina	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oocèfal	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+ooeci	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+ooforauxe	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+ooforitis	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+ooforoma	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oofàgia	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oogoni	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oogàmia	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oogènesi	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oogènia	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oogònia	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+ooide	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oolemma	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oolita	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oologia	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oolític	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oològic	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oomicet	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oomicetal	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oomicot	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+ooplasma	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+ooscòpia	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oosfera	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oosporosi	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oostegita	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+ooteca	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+ooteràpia	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+ootip	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+ootomia	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+oozooide	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+ooïna	accept	terme científic d'arrel grega (oo-, noo-) de fonts terminològiques: intent vàlid, no solució
+open	reject	manlleu no adaptat absent del DIEC2 (consulta individual 2026-10-24)
+outlet	reject	manlleu no adaptat de font esadir, sense adaptació gràfica catalana
+output	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+palmar	allow	mot català patrimonial o plenament adaptat (la font esadir només documenta l'ús)
+pierrot	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+pioovari	allow	mot català: la seqüència marcada és una frontera de morfema
+pirat	allow	mot català patrimonial o plenament adaptat (la font esadir només documenta l'ús)
+pitonís	allow	mot català patrimonial o plenament adaptat (la font esadir només documenta l'ús)
+pizza	accept	DIEC2 el recull (consulta individual 2026-10-24); grafia estrangera: intent vàlid, no solució
+pizzeria	accept	DIEC2 el recull (consulta individual 2026-10-24); grafia estrangera: intent vàlid, no solució
+posthumà	allow	mot català: la seqüència marcada és una frontera de morfema
+postterme	allow	mot català: la seqüència marcada és una frontera de morfema
+posttesar	allow	mot català: la seqüència marcada és una frontera de morfema
+posttest	allow	mot català: la seqüència marcada és una frontera de morfema
+posttònic	allow	mot català: la seqüència marcada és una frontera de morfema
+première	reject	manlleu no adaptat de font esadir, sense adaptació gràfica catalana
+quest	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+quinto	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+radioona	allow	mot català: la seqüència marcada és una frontera de morfema
+radioopac	allow	mot català: la seqüència marcada és una frontera de morfema
+rentrée	reject	manlleu no adaptat de font esadir, sense adaptació gràfica catalana
+report	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+reporter	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+revival	reject	manlleu no adaptat de font esadir, sense adaptació gràfica catalana
+ring	accept	DIEC2 el recull (consulta individual 2026-10-24); grafia estrangera: intent vàlid, no solució
+round	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+sergent	allow	mot català patrimonial o plenament adaptat (la font esadir només documenta l'ús)
+single	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+sioux	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+soul	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+souvenir	reject	manlleu no adaptat absent del DIEC2 (consulta individual 2026-10-24)
+stop	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+subtinent	allow	mot català patrimonial o plenament adaptat (la font esadir només documenta l'ús)
+surf	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+sushi	accept	DIEC2 el recull (consulta individual 2026-10-24); grafia estrangera: intent vàlid, no solució
+tablet	reject	manlleu no adaptat absent del DIEC2 (consulta individual 2026-10-24)
+teleesquí	allow	mot català: la seqüència marcada és una frontera de morfema
+tothom	allow	mot català: la seqüència marcada és una frontera de morfema
+tothora	allow	mot català: la seqüència marcada és una frontera de morfema
+transhumar	allow	mot català: la seqüència marcada és una frontera de morfema
+trust	no_solution	manlleu sense adaptació gràfica catalana; no verificat al DIEC2: intent vàlid, no solució
+whisky	accept	DIEC2 el recull (consulta individual 2026-10-24); grafia estrangera: intent vàlid, no solució
+càmper	allow	DIEC2 el recull (consulta individual 2026-10-24); mot adaptat
+cool	reject	DIEC2: no consta (consulta individual 2026-10-24); anglicisme no adaptat
+crooner	reject	DIEC2: no consta (consulta individual 2026-10-24); anglicisme no adaptat
+tonto	reject	QA iteració 3 (N2): castellanisme col·loquial; DIEC2: no consta (consulta individual 2026-10-24)
+aixanti	reject	QA iteració 3 (N2): DIEC2: no consta (consulta individual 2026-10-24); només font LT de corpus
+foteta	reject	QA iteració 3 (N2): DIEC2: no consta (consulta individual 2026-10-24); només font LT de corpus
+canyer	allow	QA iteració 3 (N2): DIEC2 el recull (consulta individual 2026-10-24); la font col·loquial és només de l'adjectiu

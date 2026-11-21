@@ -1,0 +1,64 @@
+{
+  "title": "Dades lèxiques",
+  "entries": [
+    {
+      "id": "softcatala",
+      "name": "Softcatalà – catalan-dict-tools",
+      "text": "Llista de paraules, flexió i freqüències: Softcatalà – catalan-dict-tools.",
+      "copyright": [
+        "Copyright (C) 2013- Jaume Ortolà",
+        "Copyright (C) 2002-2008 Joan Moratinos"
+      ],
+      "license": "LGPL-2.1 o posterior",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html",
+      "license_file": "assets/licenses/LGPL-2.1.txt",
+      "source_url": "https://github.com/Softcatala/catalan-dict-tools",
+      "version": "revisió b00fcd9 del 22/10/2026",
+      "note": "Les dades derivades (llista de paraules acceptades, llista de paraules poc freqüents de «Has après» i llista de paraules daurades) es distribueixen sota la mateixa llicència i es poden regenerar amb les eines del projecte.",
+      "assets": [
+        "assets/lexicon/accepted.tsv",
+        "assets/lexicon/apres.tsv",
+        "assets/lexicon/daurades.tsv",
+        "assets/lexicon/manifest.json"
+      ]
+    },
+    {
+      "id": "viquidiccionari",
+      "name": "Viquidiccionari",
+      "text": "Definicions: Viquidiccionari, col·laboradors del Viquidiccionari.",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ca",
+      "license_file": "assets/licenses/CC-BY-SA-4.0.txt",
+      "source_url": "https://ca.wiktionary.org/",
+      "version": "bolcat del 01/10/2026",
+      "dump_date": "20261001",
+      "note": "Les pistes són una adaptació automàtica (text netejat i escurçat) de les definicions originals i es comparteixen sota la mateixa llicència.",
+      "assets": [
+        "assets/lexicon/clues.tsv"
+      ]
+    },
+    {
+      "id": "pistes-propies",
+      "name": "Pistes de redacció pròpia",
+      "text": "Pistes escrites per a Trena per a les paraules que el Viquidiccionari no cobreix o no defineix prou bé per a un joc.",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ca",
+      "license_file": "assets/licenses/CC-BY-SA-4.0.txt",
+      "version": "1.140 pistes",
+      "note": "Són definicions breves de redacció original, escrites sense copiar cap diccionari i revisades amb els mateixos filtres que la resta de pistes. Inclouen també les 211 pistes dels reptes de temporada i les 207 de les temàtiques. Es comparteixen sota la mateixa llicència que el fitxer de pistes.",
+      "assets": [
+        "assets/lexicon/clues.tsv",
+        "assets/lexicon/seasons/nadal-clues.tsv",
+        "assets/lexicon/seasons/santjordi-clues.tsv",
+        "assets/lexicon/themes/animals-clues.tsv",
+        "assets/lexicon/themes/bosc-clues.tsv",
+        "assets/lexicon/themes/casa-clues.tsv",
+        "assets/lexicon/themes/cuina-clues.tsv",
+        "assets/lexicon/themes/hort-clues.tsv",
+        "assets/lexicon/themes/mar-clues.tsv",
+        "assets/lexicon/themes/musica-clues.tsv",
+        "assets/lexicon/themes/oficis-clues.tsv"
+      ]
+    }
+  ]
+}
