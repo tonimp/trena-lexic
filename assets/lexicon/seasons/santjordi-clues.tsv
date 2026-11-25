@@ -8,6 +8,7 @@ AUTORA	autora	autor	(femení) Dona que ha escrit un llibre o una altra obra	prò
 AUTORES	autores	autor	(femení plural) Dones que han escrit un llibre o una altra obra	pròpia
 AUTORS	autors	autor	(plural) Persones que han escrit un llibre o una altra obra	pròpia
 CANÇO	cançó	cançó	Peça musical amb lletra que s’interpreta amb la veu	pròpia
+CASTELL	castell	castell	Edifici fortificat amb torres i merlets, on vivien els nobles	pròpia
 CAVALLER	cavaller	cavaller	Noble medieval que viatjava muntat en un corser	pròpia
 CERTAMEN	certamen	certamen	Concurs literari o artístic amb premis	pròpia
 CLAVELL	clavell	clavell	Flor de pètals dentats, sovint vermella o blanca	pròpia
@@ -35,6 +36,7 @@ HEROIS	herois	heroi	(plural) Protagonistes valents de les gestes i de les llegen
 IMPREMTA	impremta	impremta	Taller on s’estampen llibres amb tinta i paper	pròpia
 JARDI	jardí	jardí	Terreny amb plantes i flors al voltant d’una casa	pròpia
 JOCS	jocs	joc	(plural) Activitats per divertir-se seguint unes regles	pròpia
+LECTOR	lector	lector	Persona que llegeix llibres, diaris o revistes	pròpia
 LECTORA	lectora	lector	(femení) Dona que llegeix llibres, diaris o revistes	pròpia
 LLAÇOS	llaços	llaç	(plural) Nusos decoratius de cinta, com el que lliga la rosa	pròpia
 LLEGENDA	llegenda	llegenda	Relat tradicional de fets meravellosos que passa de pares a fills	pròpia
@@ -60,6 +62,7 @@ PRINCESA	princesa	princesa	Filla d’un monarca, protagonista de molts contes	pr
 PROLEG	pròleg	pròleg	Text breu que precedeix el cos d’un llibre	pròpia
 PROSA	prosa	prosa	Forma d’escriure que no segueix les regles del vers	pròpia
 RECITAL	recital	recital	Lectura en públic de poemes	pròpia
+REGAL	regal	regal	Obsequi que es fa a algú, com un llibre o una rosa	pròpia
 RESSENYA	ressenya	ressenya	Comentari breu i crític d’un llibre acabat de publicar	pròpia
 REVISTES	revistes	revista	(plural) Publicacions periòdiques amb articles i fotografies	pròpia
 RIMES	rimes	rima	(plural) Igualtats de so al final de dos versos	pròpia

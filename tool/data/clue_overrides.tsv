@@ -64,6 +64,7 @@ esponera	drop		accepció poc representativa
 esquivar	replace	Evitar amb habilitat un cop o un obstacle	accepció poc representativa
 estable	replace	Que no canvia, que es manté ferm	accepció poc representativa
 estimar	replace	Sentir afecte o amor per algú	accepció poc representativa
+estima	replace	Bona opinió que es té d’algú pels seus mèrits o la seva bondat	QA de lletres-catalanes-cami: pista vaga («…per la seva honradesa»)
 estranger	replace	Persona d'un altre país	accepció poc representativa
 factor	replace	Element que contribueix a produir un resultat	accepció poc representativa
 fanàtic	replace	Que defensa una idea o una causa amb passió desmesurada	accepció poc representativa
@@ -451,3 +452,34 @@ mirra	replace	Resina aromàtica d’un arbust d’Aràbia i l’Àfrica oriental
 poncella	replace	Capoll de flor encara tancat, sobretot el de la rosa	revisió de pistes: «Noia verge» era poc apropiada en un joc familiar; accepció botànica
 heroïna	replace	Dona admirada per una gesta o per la seva valentia	revisió de pistes: la de la droga no és apropiada en un joc familiar; primera accepció
 tanc	replace	Dipòsit gran per guardar líquids o gasos	retirar-solucions-dubtoses-2: la del Viquidiccionari («…sòlids de mida molt petita») era confusa
+# 2026-11-21 lletres-catalanes-cami (3.1): pistes revisades de les paraules que entren amb les lletres catalanes.
+anul·lar	replace	Deixar sense efecte un contracte, una ordre o una decisió	la pista contenia «nul», arrel evident
+llença	replace	Cordill tibat que serveix de guia per alinear maons o pedres	redacció més clara («per les filades»)
+creença	replace	Convicció que es té per certa, sovint en matèria religiosa	pista massa vaga
+renec	replace	Paraula grollera o blasfèmia que es diu amb ràbia	«déu» en minúscula i redacció confusa
+metàl·lic	replace	De ferro, coure, alumini o un altre material d’aquesta mena	l'accepció de diner en efectiu és secundària i enganyosa
+capçal	replace	Extrem del llit on va el coixí	la pista contenia «cap», arrel evident
+alça	replace	Pujada d’un preu o d’un valor	redacció poc natural; la mateixa que la del plural
+opac	replace	Que no deixa passar la llum	redundància («a través»)
+capsa	replace	Caixa petita, sovint amb tapa	pista massa vaga
+vacil·lar	replace	Dubtar, no saber què decidir	l'accepció triada era confusa
+al·legar	replace	Adduir fets o raons per defensar o justificar alguna cosa	redacció poc clara
+esmerçar	replace	Invertir diners, temps o esforç en alguna cosa	«per comprar o vendre» era inexacte
+tieta	replace	Nom afectuós i familiar de la dona de l’oncle o la germana dels pares	la pista contenia «tia», arrel evident; QA de lletres-catalanes-cami: es distingeix de «ties» (nivell 276)
+escurçar	replace	Reduir la llargada o la durada d’alguna cosa	la pista contenia «curt», arrel evident
+crua	replace	(femení) Que no s’ha cuit, o no prou	concordança en femení
+cel·la	replace	Habitació petita i individual d’un convent o d’una presó	redacció; sense «col·legi»
+paral·lel	replace	Dit de les rectes o els plans que no es troben mai	«que que»
+escurçó	replace	Serp verinosa de la família dels vipèrids	més precisa
+enllaç	replace	Unió o connexió entre dues coses o dos llocs	la pista era d'adjectiu («Que uneix»)
+comerços	replace	(plural) Botigues, establiments on es venen productes	el plural designa sobretot botigues
+rocós	replace	Ple de penyals i pedres grosses	la pista contenia «roques», arrel evident
+il·lustrar	replace	Acompanyar un text amb dibuixos o imatges	accepció poc representativa
+cast	replace	Pur, virtuós, de costums honestos	pista més adequada per a un joc familiar
+apel·lar	replace	Recórrer a un tribunal superior contra una sentència	redacció més precisa
+cor	replace	Múscul que bombeja la sang per tot l’organisme	la pista citava «cos», que es forma sovint amb les mateixes lletres
+capçals	drop		sense pista, com abans de la correcció del lema: el conjunt de formes amb pista no canvia (la regeneració dels nivells en depèn)
+castos	drop		sense pista, com abans de la correcció del lema: el conjunt de formes amb pista no canvia (la regeneració dels nivells en depèn)
+metàl·lica	drop		sense pista, com abans de la correcció del lema: el conjunt de formes amb pista no canvia (la regeneració dels nivells en depèn)
+ties	replace	(plural) Per a un nebot, germana del seu pare o de la seva mare	QA de lletres-catalanes-cami: gairebé igual que «tieta» al nivell 276
+ritu	replace	Cerimònia sagrada que segueix les normes fixades per la tradició	QA de lletres-catalanes-cami: pista vaga («Execució ordenada d’una acció complexa»); daurada del 363

@@ -30,9 +30,9 @@
       "packaged": true
     },
     "apres.tsv": {
-      "sha256": "d386bdb175834f87e3e0df6febd212feb1da337a5ec34417934a537c56406b57",
-      "bytes": 10193,
-      "lines": 335,
+      "sha256": "6faf2b1ea3e482c948873c955fcb3efb39f5d9e70b49dd25187d53deffb0bad4",
+      "bytes": 10691,
+      "lines": 348,
       "license": "LGPL-2.1-or-later",
       "packaged": true
     },
@@ -44,16 +44,16 @@
       "packaged": false
     },
     "clues.tsv": {
-      "sha256": "25f2c14e84ba21937b4fcd73d68c273a9ebc4465932654959190c58f49726bfd",
-      "bytes": 1103935,
+      "sha256": "486b319207ecf7501f26d22028e807a18b817f0cf4a14e8127e788fa1316070c",
+      "bytes": 1104220,
       "lines": 14145,
       "license": "CC-BY-SA-4.0",
       "packaged": true
     },
     "daurades.tsv": {
-      "sha256": "b875e9eacdd0316bfe6925dd7c404cc1711e8bd0842d172bde2f396aa0f8e73c",
-      "bytes": 10842,
-      "lines": 446,
+      "sha256": "c796ff6c2ca471fda983b7752cb6f253682ca446058cc62b49c0dc1c42138597",
+      "bytes": 10897,
+      "lines": 447,
       "license": "LGPL-2.1-or-later",
       "packaged": true
     },
@@ -65,9 +65,9 @@
       "packaged": true
     },
     "seasons/santjordi-clues.tsv": {
-      "sha256": "0693d0236bd9c87faa892a6c2402dd02c3d908f86d1d9abbffd2d06c806dfb85",
-      "bytes": 6727,
-      "lines": 84,
+      "sha256": "1ddd07c79836001133e9ee2d84e02c0a1cab35e23f4f84e92e91266c1b2cb3f3",
+      "bytes": 6975,
+      "lines": 87,
       "license": "CC-BY-SA-4.0",
       "packaged": true
     },
@@ -159,8 +159,8 @@
       "4": 1406,
       "5": 2765
     },
-    "apres": 334,
-    "daurades": 445
+    "apres": 347,
+    "daurades": 446
   },
   "lexicon_fingerprint": "c7284d824dfcdbb4fda15e675eac5dcd0fbec97e9833980be6d2e99cff571bc4"
 }

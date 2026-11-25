@@ -14,7 +14,6 @@ mate	pista d’un sentit poc conegut (l’arbre, no la infusió)
 erra	pista que no ensenya res: «Lletra…»
 surer	pista d’un sentit poc habitual i d’una sola paraula («Ballesta»)
 tori	pista que no ensenya res: «Element químic…»
-redir	la pista conté l’arrel de la resposta («dir»)
 essa	pista que no ensenya res: «Lletra…»
 aïrar	la pista conté l’arrel de la resposta («ira»)
 nervi	pista imprecisa
@@ -127,7 +126,6 @@ carretó	pista d’un sentit poc habitual (el corrent és el carro petit)
 àlif	pista que no ensenya res: «…lletra…»
 toscar	pista que és una remissió d’una sola paraula amb l’arrel («Tosquera»)
 bestia	la pista conté l’arrel de la resposta («Tia»)
-erecte	tema sensible (connotació sexual)
 estronci	pista que no ensenya res: «Element químic…»
 vern	pista vaga (només la família botànica)
 paca	pista vaga (només la taxonomia)
@@ -157,3 +155,14 @@ roina	homògrafa sense dièresi de «roïna» (femení de «roí», més freqüe
 odiar	la pista conté l’arrel de la resposta («odi»)
 castlà	retirar-solucions-dubtoses-2: retirada com a solució (terme d’història, DIEC2 [HIH]); a més, conserva la daurada publicada del nivell 449 (patac)
 retop	retirar-solucions-dubtoses-2: en sortir d’apres.tsv hauria desplaçat la daurada publicada del nivell 401 (forest)
+# 2026-11-21 lletres-catalanes-cami: revisió de les daurades noves.
+rapa	pista inexacta (la rapa és el raïm sense els grans)
+nuar	la pista conté l’arrel de la resposta («nus»)
+gal·li	pista que no ensenya res: «Element químic…»
+tal·li	pista que no ensenya res: «Element químic…»
+il·lustre	flexió d’una solució («il·lustres»): la daurada no pot repetir el lema de la principal
+tísic	tema sensible: malaltia d’una persona (mateix criteri que a «Has après»)
+agre	adjectiu corrent amb una flexió freqüent («agra») que sovint és solució: poc interès com a daurada
+suís	gentilici definit per les ciutats (mateix criteri que «txec», «letó»)
+llenç	comparteix lema («llençar») amb una solució freqüent («llença»): la daurada no pot repetir el lema de la principal
+vianant	singular d’una solució («vianants»): la daurada no pot repetir el lema de la principal

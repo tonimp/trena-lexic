@@ -30,12 +30,10 @@ level	form	clue	verdict	note
 52	bram	Crit de l’ase, del lleó	ok	lot 1
 53	mastí	Gos de cap gros i d’orelles grosses que li pengen, però de caràcter dòcil	ok	lot 1
 54	ruda	Herba d’olor forta i gust amarg, usada en remeis casolans	ok	lot 1
-55	nuar	Unir mitjançant un nus	ok	lot 1
 56	lupa	Lent d’augment amb un vidre biconvex	ok	lot 1
 59	riell	Peça petita de metall fos en brut	ok	lot 1
 60	grall	Crit fort, estrident	ok	lot 1
 62	patró	Persona que mana en una empresa o en una embarcació	ok	lot 1
-63	larva	Forma jove d’un insecte, com l’eruga, abans de ser adult	ok	lot 1
 64	negre	Color fosc com el del carbó	ok	lot 1
 65	rull	Rínxol, cabell cargolat	ok	lot 1
 66	àton	Que no conté un accent	ok	lot 1
@@ -58,7 +56,6 @@ level	form	clue	verdict	note
 88	aire	Gasos de l’atmosfera	ok	lot 1
 89	baló	Objecte elàstic ple d’aire o d’un altre fluid	ok	lot 1
 90	dictar	Dir coses esperant que algú les anoti o les repeteixi	ok	lot 1
-91	niell	Barreja negra, generalment de sofre	ok	lot 1
 92	tint	Acció o efecte de tenyir	ok	lot 1
 93	euro	Moneda que va substituir la pesseta	ok	lot 1
 94	rusc	Construcció artificial que imita les arnes de les abelles	ok	lot 1
@@ -69,7 +66,6 @@ level	form	clue	verdict	note
 99	gall	Mascle de l’aviram, que canta a la matinada	ok	lot 1
 100	esnob	Persona que és amatent a escollir tota novetat en les idees	ok	lot 1
 102	espai	Extensió aparentment buida entre dos o més cossos; lloc	ok	lot 1
-103	truà	Home que es dedica a fer riure	ok	lot 1
 104	mini	Òxid de plom emprat en la il·lustració de llibres manuscrits	ok	lot 1
 105	eslau	Individu d’un poble indoeuropeu establert a l’Europa central i oriental	ok	lot 1
 106	torb	Vent violent que aixeca la neu del terra reduint greument la visibilitat	ok	lot 1
@@ -88,7 +84,6 @@ level	form	clue	verdict	note
 121	catet	Cadascun dels costats que formen l’angle recte en un triangle rectangle	ok	lot 1
 122	elis	Expressió de befa	ok	lot 1
 123	tenis	Esport de raqueta i pilota amb una xarxa al mig	ok	lot 1
-124	rella	Extrem metàl·lic d’una arada	ok	lot 1
 125	sura	Cadascun dels 114 capítols en què es divideix l’Alcorà	ok	lot 1
 126	únic	Que no hi ha altre com ell	ok	lot 1
 128	acatar	Acceptar una ordre, situació o decisió aliena	ok	lot 1
@@ -98,8 +93,6 @@ level	form	clue	verdict	note
 113	càrtel	Conjunt d’empreses que col·ludeixen per limitar la competència	ok	lot 1
 131	sèrum	Part líquida que queda de la sang després que es coaguli i s’elimini el coàgul	ok	lot 2
 132	vidre	Material dur, fràgil i transparent	ok	lot 2
-133	etanol	Alcohol de fórmula CH3CH2OH	ok	lot 2
-134	rònec	Dit d’allò que es troba sol	ok	lot 2
 135	aviar	Preparar-se per emprendre la marxa	ok	lot 2
 136	orde	Societat de religiosos	ok	lot 2
 137	aroma	Fragància característica d’una substància	ok	lot 2
@@ -109,29 +102,22 @@ level	form	clue	verdict	note
 141	clip	Pinça petita, que fa pressió pel doblec, per a subjectar objectes lleugers	ok	lot 2
 142	domar	Fer perdre la salvatgia	ok	lot 2
 143	isard	Mamífer caprí de la família dels bòvids	ok	lot 2
-144	nariu	Cadascun dels forats del nas	ok	lot 2
 146	secret	Confidència, cosa que no es pot explicar als altres	ok	lot 2
 149	rifa	Sorteig venent un nombre determinat de paperets numerats	ok	lot 2
 150	dació	Transmissió de la propietat d’un bé a canvi del pagament d’un deute	ok	lot 2
-151	rost	Zona amb molt de pendent	ok	lot 2
 152	sorn	Poc predisposat a obeir ordres, mancat de diligència	ok	lot 2
-153	invers	Oposat en relació a un altre	ok	lot 2
 154	ànode	Terminal positiu en una cel·la electrolítica	ok	lot 2
 155	mandró	Fona per a llençar pedres	ok	lot 2
 156	carreu	Pedra grossa, tallada de manera que tots els angles siguin rectes	ok	lot 2
 157	làser	Dispositiu electrònic que genera rajos de llum coherents	ok	lot 2
 158	mediat	Que no esdevé directament, sinó a través d’un altre	ok	lot 2
-159	tina	Recipient molt gran per guardar líquids	ok	lot 2
 160	penca	Tira gruixuda tallada d’un aliment	ok	lot 2
 161	estre	Inspiració del poeta	ok	lot 2
 162	puro	Cigar havà	ok	lot 2
 163	tenor	La veu masculina de cantant més aguda	ok	lot 2
-164	nacre	Substància formada per alguns mol·luscs a les seves conquilles	ok	lot 2
-166	nivell	Graó real o imaginari d’una gradació d’elevacions o de categories	ok	lot 2
 167	canós	De cabells blancs	ok	lot 2
 168	rapar	Tallar, o fer-se tallar, els cabells arran	ok	lot 2
 169	saüc	Arbust de flors blanques i baies negres	ok	lot 2
-171	sacre	Os de la columna vertebral format per les darreres cinc vèrtebres soldades	ok	lot 2
 172	niar	Construir el refugi on l’ocell pondrà i covarà els ous	ok	lot 2
 173	timpà	Membrana de l’orella present en els animals de l’ordre dels cordats	ok	lot 2
 174	clarí	Instrument aeròfon de metall, semblant a la trompeta, però de registre més agut	ok	lot 2
@@ -140,8 +126,6 @@ level	form	clue	verdict	note
 177	saca	Bossa gran de tela forta per transportar mercaderies	ok	lot 2
 178	barem	Taula de valors per puntuar o calcular	ok	lot 2
 179	regió	Àrea territorial de dimensions variables	ok	lot 2
-181	aldea	Llogaret o poble menor sense jurisdicció civil ni judicial	ok	lot 2
-182	corc	Larva o adult de certs coleòpters	ok	lot 2
 183	manco	Menys, en menor quantitat	ok	lot 2
 184	tendir	Mostrar propensió natural envers alguna cosa	ok	lot 2
 185	perol	Recipient de metall, amb forma de mitja esfera i dues anses	ok	lot 2
@@ -162,11 +146,9 @@ level	form	clue	verdict	note
 203	paeria	Ajuntament	ok	lot 2
 204	sedició	Incitació organitzada de rebel·lió contra l’autoritat establerta	ok	lot 2
 206	rial	Riera petita	ok	lot 2
-207	teia	Estella de pi resinós que crema fàcilment	ok	lot 2
 208	cresol	Llàntia per a fer llum amb oli i un ble	ok	lot 2
 209	eslip	Calçotets curts i sense camals	ok	lot 2
 210	sami	Del poble indígena del nord d’Escandinàvia	ok	lot 2
-212	copte	Membre de l’Església cristiana monofisita d’Egipte	ok	lot 2
 213	sonet	Estrofa poètica composta per catorze versos amb un nombre de síl·labes variable	ok	lot 2
 214	escar	Posar l’esquer a l’ham, a un ormeig de pesca	ok	lot 2
 215	sari	Vestit femení, tradicional del subcontinent indi	ok	lot 2
@@ -194,24 +176,19 @@ level	form	clue	verdict	note
 237	traüt	Renou, moviment bulliciós	ok	lot 2
 238	perla	Figura nacrada, normalment rodona o ovalada	ok	lot 2
 239	mono	Dit del so gravat i reproduït per un sol canal	ok	lot 2
-240	crugia	En un vaixell, pla vertical que passa just pel seu mig de proa a popa	ok	lot 2
-241	judo	Art marcial japonesa	ok	lot 2
 242	adret	Ben format i sa de cos	ok	lot 2
 243	càdec	Arbust de la família de les cupressàcies propi de la terra baixa mediterrània	ok	lot 2
 244	atles	Col·lecció de mapes	ok	lot 2
 246	rabejar	Ficar en aigua fins que resti moll	ok	lot 2
 247	catau	Cau, amagatall	ok	lot 2
 249	minso	D’escassa quantitat	ok	lot 2
-250	ítem	Apartat d’un qüestionari	ok	lot 2
 252	ordi	Cereal d’espigues denses amb llargues arestes	ok	lot 7 (QA M2: cascada; odiar exclosa)
-253	ansa	Part corbada d’un objecte per on s’agafa	ok	lot 2
 254	pícea	Gènere d’arbres que són coníferes de fulles persistents	ok	lot 2
 255	granat	Mineral del grup dels silicats format per un metall bivalent i un de trivalent	ok	lot 2
 256	areng	Peix dels clupeids semblant a la sardina, però més gros	ok	lot 2
 257	sereno	Vigilant nocturn d’un barri o població	ok	lot 2
 258	crin	Pèl aspre del bescoll i la cua de certs animals, especialment cavalls	ok	lot 2
 259	burxa	Bastó curt de ferro acabat en punxa	ok	lot 2
-186	aürt	Cop, xoc, topada brusca	ok	lot 3
 263	drenar	Evacuar l’excés d’aigua d’un terreny humit	ok	lot 3
 264	seitó	Peix de la família dels clupeids, semblant a la sardina però més prim	ok	lot 3
 265	ateu	Persona que creu que Déu no existeix	ok	lot 3
@@ -225,13 +202,9 @@ level	form	clue	verdict	note
 273	llim	Tipus de terreny format per la unió d’aigua i terra	ok	lot 3
 274	sagal	Noi que fa de mosso d’un pastor	ok	lot 3
 275	claca	En un teatre, públic pagat per aplaudir	ok	lot 3
-277	copet	Toc suau amb la mà, per animar o felicitar	ok	lot 3
 278	cegar	Fer perdre la visió o la vista	ok	lot 3
-279	cras	Molt gros, grosser, indisculpable	ok	lot 3
 280	igni	Produït per l’acció del foc	ok	lot 3
 281	maula	Artifici d’engany	ok	lot 3
-282	tort	Perjudici, malifeta o dany, causat sense justificació	ok	lot 3
-283	gitar	Llançar, tirar	ok	lot 3
 284	allau	Massa de neu que es desprèn sobtadament i cau muntanya avall	ok	lot 3
 285	tíbia	Os de la part interna de la cama dels vertebrats, entre el genoll i el turmell	ok	lot 3
 286	retoc	Petit canvi per acabar o millorar una obra	ok	lot 3
@@ -248,18 +221,14 @@ level	form	clue	verdict	note
 300	enterc	Dit d’un objecte, rígid, inflexible, encarcarat	ok	lot 3
 301	asil	Lloc protegit per als perseguits	ok	lot 3
 302	noli	Preu que es paga pel transport o tragí i arrendament d’una nau	ok	lot 3
-303	caspa	Descamació de la pell del cap	ok	lot 3
-304	artiga	Terra de conreu preparada cremant el sotabosc i la brossa	ok	lot 3
 305	caneló	Rotlle fet amb pasta de blat	ok	lot 3
 306	espart	Planta gramínia de fulles linears molt tenaces usades com a matèria tèxtil	ok	lot 3
 307	rossí	Cavall que no és de raça	ok	lot 3
 308	noiet	Infant petit, marrec	ok	lot 3
 310	trepar	Fer forats amb una eina	ok	lot 3
-311	cleda	Tancat per recollir el bestiar o l’aviram d’una granja	ok	lot 3
 312	enuig	Sentiment d’ira, ràbia i descontentament	ok	lot 3
 313	estic	Bastó acabat amb una part inferior corba	ok	lot 3
 315	ardu	Molt difícil i costós de fer	ok	lot 3
-316	artell	Articulació dels dits de la mà i del peu	ok	lot 3
 317	rasclet	Eina consistent en una filera de pues unides a un pal	ok	lot 3
 318	caiac	Embarcació lleugera, feta de pell, tradicional dels esquimals	ok	lot 3
 319	guisa	Manera de fer	ok	lot 3
@@ -270,20 +239,14 @@ level	form	clue	verdict	note
 324	pètal	Cadascuna de les peces que componen la corol·la	ok	lot 3
 325	carpa	Envelat, especialment d’un circ	ok	lot 3
 327	vàter	Receptacle de ceràmica col·locat damunt d’un tub	ok	lot 3
-328	roent	Molt calent, com el ferro al foc	ok	lot 3
 329	canapè	Sofà lleuger entapissat amb un respatller per a cada seient	ok	lot 3
 330	norai	Peça de ferro o pedra que hi ha als molls com a amarrador de vaixells	ok	lot 7 (QA M2: cascada des del 252; roina exclosa)
-331	paté	Pasta de fetge o de carn, assaonada i cuita	ok	lot 3
-332	renoc	Cosa inútil	ok	lot 3
-333	tiara	Corona alta que portava el papa	ok	lot 3
 334	vermell	De color de la sang i de les roselles	ok	lot 3
 335	midó	Fècula dels cereals i la patata, que també serveix per endurir la roba	ok	lot 3
 336	incoar	Començar	ok	lot 3
 337	garbí	Vent del sud-oest	ok	lot 3
 338	làmia	Tauró blanc	ok	lot 3
 339	falca	Peça de fusta que es fa servir per mantenir dreta una estructura	ok	lot 3
-340	vira	Sageta de cos prim de punta molt aguda utilitzada típicament en la ballesta	ok	lot 3
-341	rapa	Part carnosa del raïm, sense pellofa ni grans	ok	lot 3
 342	cresp	Molt arrissat	ok	lot 3
 344	dent	Peça d’os de la boca que serveix per mastegar els aliments	ok	lot 3
 345	bisell	Vora o contorn tallat de forma obliqua	ok	lot 3
@@ -302,17 +265,14 @@ level	form	clue	verdict	note
 359	imant	Cos que té la propietat natural d’atreure el ferro o l’acer	ok	lot 3
 360	estofar	Coure a foc lent en un recipient ben tapat	ok	lot 3
 362	trama	Conjunt de fils que són la base d’un teixit	ok	lot 3
-363	xaloc	Vent que bufa del sud-est	ok	lot 3
 364	trol	Gegant o gnom que viu en llocs solitaris	ok	lot 3
 365	aliar	Unir o col·ligar diferents pobles en virtut d’un tractat	ok	lot 3
 366	vesta	Túnica llarga	ok	lot 3
 367	arment	Ramat de bous o cavalls	ok	lot 3
-368	taigà	Bioma caracteritzat per la vegetació de coníferes	ok	lot 3
 369	levitar	Mantenir-se en suspensió sense cap suport	ok	lot 3
 370	munir	Proveir d’equipaments per a la defensa d’una plaça o la subsistència d’una tropa	ok	lot 3
 148	raure	Raspar amb un instrument tallant per treure les adherències de la superfície	ok	lot 4
 297	iota	Quantitat minúscula	ok	lot 4
-314	coca	Bescuit de poc gruix, la massa del qual fermenta abans d’enfornar	ok	lot 4
 350	dejorn	A primera hora del matí	ok	lot 4
 372	sorbet	Gelat poc consistent	ok	lot 4
 373	tromba	Núvol de forma cònica	ok	lot 4
@@ -329,9 +289,6 @@ level	form	clue	verdict	note
 386	llaga	Nafra, úlcera	ok	lot 4
 387	saure	Subordre de rèptils, de cos allargat amb escates	ok	lot 4
 388	ídem	La mateixa cosa	ok	lot 4
-389	anta	Pilastra que reforça l’extrem d’una paret	ok	lot 4
-391	covar	Donar caliu els ocells als seus ous	ok	lot 4
-393	verinós	Animal o planta que produeix substàncies tòxiques	ok	lot 4
 394	placer	Sediment al·luvial amb partícules de minerals preciosos	ok	lot 4
 395	ètnic	Relatiu a un poble amb cultura i llengua pròpies	ok	lot 4
 396	tafur	Freqüentador de cases de joc	ok	lot 4
@@ -341,7 +298,6 @@ level	form	clue	verdict	note
 400	esteva	Part de l’arada que té per funció poder-la subjectar per a llaurar	ok	lot 4
 401	forest	Boscúria, selva	ok	lot 4
 402	congre	Peix anguil·liforme, sense escates, que habita a prop de la costa	ok	lot 4
-403	sima	Avenc, cavitat profunda a la roca	ok	lot 4
 404	most	Suc de raïm sense fermentar	ok	lot 4
 405	nona	Darrera part del dia romà	ok	lot 4
 406	cicuta	Herba altament tòxica, emprada com a verí en l’antiguitat	ok	lot 4
@@ -349,16 +305,13 @@ level	form	clue	verdict	note
 409	asbest	Mineral de serpentina o amfíbol en fibres llargues, fines i paral·leles	ok	lot 4
 410	cimal	Branca principal d’un arbre	ok	lot 4
 411	tipi	Tenda cònica dels indis de les praderies	ok	lot 4
-412	desar	Posar en lloc segur	ok	lot 4
 413	torcar	Netejar fregant una superfície bruta de matèria pastosa o enganxosa	ok	lot 4
 414	envit	Moment del joc en què es pot fer una invitació a apostar	ok	lot 4
-415	trenc	Esquerda o ferida produïda per un cop	ok	lot 4
 416	saia	Antiga tela lleugera per fer peces de vestir	ok	lot 4
 417	recte	Que no fa corbes ni angles	ok	lot 4
 418	torrar	Escalfar una cosa al foc, cremar-la superficialment, fins que prengui color	ok	lot 4
 419	plaure	Agradar, ésser grat	ok	lot 4
 420	flac	Molt prim, que no té gaire carn ni greix	ok	lot 4
-421	ullar	Mirar amb atenció i insistència	ok	lot 4
 422	sisme	Terratrèmol	ok	lot 4
 423	carmí	Pigment obtingut de la cotxinilla	ok	lot 4
 425	troica	Vehicle tradicional rus	ok	lot 4
@@ -375,7 +328,6 @@ level	form	clue	verdict	note
 436	estàtic	Sense moviment	ok	lot 4
 437	suèter	Jersei gruixut de llana	ok	lot 4
 438	gènesi	Moment en què comença un procés	ok	lot 4
-439	mede	Individu d’un poble irànic que va establir un imperi en l’Orient Mitjà	ok	lot 4
 440	aspa	Cadascun dels braços d’un molí de vent	ok	lot 4
 441	ègida	Escut protector associat a Zeus i Atena consistent en una capa de pell de cabra	ok	lot 4
 442	raucar	Cridar la granota o el gripau	ok	lot 4
@@ -386,16 +338,13 @@ level	form	clue	verdict	note
 448	forment	Blat comú, blat blancal	ok	lot 4
 449	patac	Cop violent	ok	lot 4
 450	fiola	Recipient de vidre per a contenir poca quantitat de líquid	ok	lot 4
-451	goleta	Vaixell amb dos o tres pals amb veles quadrades	ok	lot 4
 452	piragua	Embarcació lleugera, allargassada i estreta	ok	lot 4
-453	visar	Verificar un document perquè tingui validesa	ok	lot 4
 454	tètric	D’aparença trista i depriment	ok	lot 4
 455	pleta	Lloc tancat on pastura el bestiar	ok	lot 4
 456	tronera	Finestra d’una embarcació o fortificació per on dispara l’artilleria	ok	lot 4
 457	avar	Que estalvia molt amb l’objectiu d’acumular possessions	ok	lot 4
 458	rascle	Instrument agrícola de fusta amb claus o pues per passar per damunt la terra	ok	lot 4
 459	tany	Brot tendre o branca jove d’un arbre	ok	lot 4
-460	tesina	Treball de final de carrera	ok	lot 4
 461	senar	Referit a un nombre enter, que no es pot dividir per dos	ok	lot 4
 462	acarar	Confrontar unes persones amb unes altres amb el fi d’esbrinar la veritat	ok	lot 4
 463	epítet	Tipus d’adjectiu que no té una funció especificadora	ok	lot 4
@@ -416,11 +365,8 @@ level	form	clue	verdict	note
 479	landa	Matollar dens propi de l’Europa amb clima atlàntic i plujós	ok	lot 4
 480	cadarn	Fluxió o destil·lació que ataca el nas, la boca o el pit	ok	lot 4
 193	estibar	Col·locar adequadament la càrrega en una nau	ok	lot 4
-361	tetera	Recipient amb bec per fer infusions	ok	lot 4
 117	atuir	Quedar com mort	ok	lot 5 (repàs final)
-127	clava	Garrot gruixut que s’eixampla cap a la punta	ok	lot 5 (repàs final)
 205	nècora	Cranc comestible de la família dels portúnids	ok	lot 5 (repàs final)
-251	laca	Substància emprada per a mantindre fix el pentinat	ok	lot 5 (repàs final)
 262	encís	Poder de fascinar que té una persona o una cosa	ok	lot 5 (repàs final)
 326	burí	Estri de metall emprat per foradar o gratar materials com el cuir o el metall	ok	lot 5 (repàs final)
 384	pera	Fruit en forma de gota, de polpa dolça i sucosa	ok	lot 5 (repàs final)
@@ -428,23 +374,79 @@ level	form	clue	verdict	note
 15	rosa	Flor de jardí de bona flaire, amb espines a la tija	ok	lot 6 (coherència amb apres_exclusions)
 57	posa	Actitud del cos que adopta algú per ser retratat	ok	lot 6 (coherència amb apres_exclusions)
 145	assot	Instrument emprat antigament per castigar amb cops els delinqüents	ok	lot 6 (coherència amb apres_exclusions)
-147	somera	Femella de l’ase	ok	lot 6 (coherència amb apres_exclusions)
-165	telamó	Atlant, estàtua o figura humana que serveix de columna o pilar en arquitectura	ok	lot 6 (coherència amb apres_exclusions)
 170	barra	Peça recta i llarga de secció uniforme	ok	lot 6 (coherència amb apres_exclusions)
-180	mestral	Vent que bufa procedent del nord-oest	ok	lot 6 (coherència amb apres_exclusions)
 197	taleca	Bossa de roba per a dur-hi coses petites	ok	lot 6 (coherència amb apres_exclusions)
-211	criat	Persona que fa les feines domèstiques per a un amo	ok	lot 6 (coherència amb apres_exclusions)
-245	agró	Ocell camallarg de zones humides, de bec llarg i coll prim	ok	lot 6 (coherència amb apres_exclusions)
 248	natiu	Innat, obtingut amb la naixença	ok	lot 6 (coherència amb apres_exclusions)
-260	merla	Ocell de la família dels muscicàpids, de plomatge negre i bec groc	ok	lot 6 (coherència amb apres_exclusions)
 261	alena	Eina llarga i prima que serveix per foradar, normalment usada per sabaters	ok	lot 6 (coherència amb apres_exclusions)
-276	enemic	Contrari a algú	ok	lot 6 (coherència amb apres_exclusions)
 287	soia	Llegum oriental que dona oli i una mena de llet	ok	lot 6 (coherència amb apres_exclusions)
 298	sedàs	Estri circular amb una reixeta al fons	ok	lot 6 (coherència amb apres_exclusions)
 309	gaita	Sac de gemecs	ok	lot 6 (coherència amb apres_exclusions)
 343	miol	Crit que emet el gat	ok	lot 6 (coherència amb apres_exclusions)
 371	escrit	Text, document redactat	ok	lot 6 (coherència amb apres_exclusions)
-392	ermini	Mamífer de la família dels mustèlids apreciat pel pelatge	ok	lot 6 (coherència amb apres_exclusions)
 407	tren	Vehicle de transport col·lectiu format per un comboi de diversos vagons	ok	lot 6 (coherència amb apres_exclusions)
-424	orenga	Planta aromàtica, perenne, de la família de les lamiàcies	ok	lot 6 (coherència amb apres_exclusions)
 447	solt	Alliberat d’un lligam o vincle	ok	lot 6 (coherència amb apres_exclusions)
+# 2026-11-21 lletres-catalanes-cami: daurades noves dels nivells reparats i de la cascada (unicitat de lema), revisades una a una.
+55	truà	Home que es dedica a fer riure	ok	lletres-catalanes-cami
+68	laca	Substància emprada per a mantindre fix el pentinat	ok	lletres-catalanes-cami
+91	aura	Vent suau	ok	lletres-catalanes-cami
+101	enllaç	Unió o connexió entre dues coses o dos llocs	ok	lletres-catalanes-cami
+103	anta	Pilastra que reforça l’extrem d’una paret	ok	lletres-catalanes-cami
+124	artell	Articulació dels dits de la mà i del peu	ok	lletres-catalanes-cami
+127	larva	Forma jove d’un insecte, com l’eruga, abans de ser adult	ok	lletres-catalanes-cami
+133	nacre	Substància formada per alguns mol·luscs a les seves conquilles	ok	lletres-catalanes-cami
+134	ítem	Apartat d’un qüestionari	ok	lletres-catalanes-cami
+144	cutani	De la pell o que hi té relació	ok	lletres-catalanes-cami
+147	espora	Element reproductor dels fongs	ok	lletres-catalanes-cami
+151	capça	Massa compacta de fulles apinyades de certes hortalisses a l’extrem del caluix	ok	lletres-catalanes-cami
+153	il·lès	Que no ha patit cap dany	ok	lletres-catalanes-cami
+159	tesina	Treball de final de carrera	ok	lletres-catalanes-cami
+164	rentat	Acció de netejar amb aigua	ok	lletres-catalanes-cami
+165	merla	Ocell de la família dels muscicàpids, de plomatge negre i bec groc	ok	lletres-catalanes-cami
+166	niell	Barreja negra, generalment de sofre	ok	lletres-catalanes-cami
+171	desar	Posar en lloc segur	ok	lletres-catalanes-cami
+180	telamó	Atlant, estàtua o figura humana que serveix de columna o pilar en arquitectura	ok	lletres-catalanes-cami
+181	caspa	Descamació de la pell del cap	ok	lletres-catalanes-cami
+182	renoc	Cosa inútil	ok	lletres-catalanes-cami
+186	fal·lera	Idea de desig envers alguna cosa, que es mostra imperativa i insistent	ok	lletres-catalanes-cami
+207	tina	Recipient molt gran per guardar líquids	ok	lletres-catalanes-cami
+211	rella	Extrem metàl·lic d’una arada	ok	lletres-catalanes-cami
+212	vira	Sageta de cos prim de punta molt aguda utilitzada típicament en la ballesta	ok	lletres-catalanes-cami
+240	nariu	Cadascun dels forats del nas	ok	lletres-catalanes-cami
+241	àrea	Extensió que ocupa una superfície, objecte d’estudi de la geometria	ok	lletres-catalanes-cami
+245	somera	Femella de l’ase	ok	lletres-catalanes-cami
+250	mede	Individu d’un poble irànic que va establir un imperi en l’Orient Mitjà	ok	lletres-catalanes-cami
+251	paella	Recipient de metall amb un mànec llarg	ok	lletres-catalanes-cami
+253	resar	Recitar una oració	ok	lletres-catalanes-cami
+260	ermini	Mamífer de la família dels mustèlids apreciat pel pelatge	ok	lletres-catalanes-cami
+276	teia	Estella de pi resinós que crema fàcilment	ok	lletres-catalanes-cami
+277	copte	Membre de l’Església cristiana monofisita d’Egipte	ok	lletres-catalanes-cami
+279	sacre	Os de la columna vertebral format per les darreres cinc vèrtebres soldades	ok	lletres-catalanes-cami
+282	rost	Zona amb molt de pendent	ok	lletres-catalanes-cami
+283	cleda	Tancat per recollir el bestiar o l’aviram d’una granja	ok	lletres-catalanes-cami
+303	rusca	Escorça de surera	ok	lletres-catalanes-cami
+304	cel·lo	Cinta adhesiva transparent	ok	lletres-catalanes-cami
+311	aldea	Llogaret o poble menor sense jurisdicció civil ni judicial	ok	lletres-catalanes-cami
+314	corc	Larva o adult de certs coleòpters	ok	lletres-catalanes-cami
+316	abellir	Venir de gust	ok	lletres-catalanes-cami
+328	trenc	Esquerda o ferida produïda per un cop	ok	lletres-catalanes-cami
+331	pelar	Treure la closca o la coberta a un fruit	ok	lletres-catalanes-cami
+332	curs	Conjunt de lliçons que formen un ensenyament regular d’una matèria	ok	lletres-catalanes-cami
+333	adagi	Sentència breu i popular, molt sovint de contingut moralitzant	ok	lletres-catalanes-cami
+340	tiara	Corona alta que portava el papa	ok	lletres-catalanes-cami
+341	arpa	Instrument de corda gran i triangular que es toca amb els dits	ok	lletres-catalanes-cami
+361	solaç	Esbargiment o entreteniment que es realitza de gust	ok	lletres-catalanes-cami
+363	ritu	Cerimònia sagrada que segueix les normes fixades per la tradició	ok	lletres-catalanes-cami; pista nova (QA, pista vaga)
+368	artiga	Terra de conreu preparada cremant el sotabosc i la brossa	ok	lletres-catalanes-cami
+389	ansa	Part corbada d’un objecte per on s’agafa	ok	lletres-catalanes-cami
+391	cerç	Vent fred provinent del nord-oest	ok	lletres-catalanes-cami
+392	sínia	Màquina d’elevar aigua	ok	lletres-catalanes-cami
+393	sima	Avenc, cavitat profunda a la roca	ok	lletres-catalanes-cami
+403	damàs	Roba de seda regularment amb dibuixos	ok	lletres-catalanes-cami
+412	editar	Preparar la publicació d’una obra impresa o gravada	ok	lletres-catalanes-cami
+415	rònec	Dit d’allò que es troba sol	ok	lletres-catalanes-cami
+421	tal·lus	Vegetal en el qual no es diferencien arrels, tija o fulles	ok	lletres-catalanes-cami
+424	agró	Ocell camallarg de zones humides, de bec llarg i coll prim	ok	lletres-catalanes-cami
+439	dors	Cara posterior d’una cosa, revers	ok	lletres-catalanes-cami
+451	coça	Cop donat per un animal èquid llançant enrere les potes posteriors	ok	lletres-catalanes-cami
+453	cras	Molt gros, grosser, indisculpable	ok	lletres-catalanes-cami
+460	ginesta	Planta arbustiva de flors grogues, de la família de les papilionàcies	ok	lletres-catalanes-cami

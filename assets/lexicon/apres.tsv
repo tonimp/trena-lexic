@@ -11,6 +11,7 @@ ALIES	àlies	àlies	lemma	10680
 ALPI	alpí	alpí	lemma	11745
 ALTAVEUS	altaveus	altaveu	plural	8798
 ALTIU	altiu	altiu	lemma	9508
+AMAR	amar	amar	lemma	11460
 AMBRE	ambre	ambre	lemma	8527
 AMENA	amena	amè	femeni	16356
 AMES	ames	ama	plural	10717
@@ -20,6 +21,7 @@ ANGELETS	angelets	angelet	plural	10167
 ANIS	anís	anís	lemma	10187
 ANQUES	anques	anca	plural	8504
 ANYELL	anyell	anyell	lemma	8984
+APEĿAR	apel·lar	apel·lar	lemma	11008
 ARADA	arada	arada	lemma	10865
 ARAM	aram	aram	lemma	8302
 ARDIT	ardit	ardit	lemma	10583
@@ -42,6 +44,8 @@ ATXA	atxa	atxa	lemma	18425
 AUCA	auca	auca	lemma	15670
 AUGE	auge	auge	lemma	11102
 AVAL	aval	aval	lemma	9879
+AĿEGAR	al·legar	al·legar	lemma	9364
+AĿERGIA	al·lèrgia	al·lèrgia	lemma	9558
 BABEL	babel	babel	lemma	11508
 BANCALS	bancals	bancal	plural	12395
 BARD	bard	bard	lemma	14285
@@ -86,8 +90,8 @@ COLP	colp	colp	lemma	9096
 CORALL	corall	corall	lemma	10414
 COSMOS	cosmos	cosmos	lemma	10778
 CREDO	credo	credo	lemma	11485
+CRISTAĿI	cristal·lí	cristal·lí	lemma	9855
 CUER	cuer	cuer	lemma	19942
-DALLA	dalla	dalla	lemma	9112
 DARSENA	dàrsena	dàrsena	lemma	19431
 DEES	dees	dea	plural	12426
 DOFINS	dofins	dofí	plural	13338
@@ -114,6 +118,9 @@ ERTA	erta	ert	femeni	17555
 ERTS	erts	ert	plural	17555
 ESCA	esca	esca	lemma	13251
 ESCO	escó	escó	lemma	8628
+ESCURÇAR	escurçar	escurçar	lemma	9764
+ESCURÇO	escurçó	escurçó	lemma	10264
+ESMERÇAR	esmerçar	esmerçar	lemma	10494
 ESPERO	esperó	esperó	lemma	10740
 ESPINACS	espinacs	espinac	plural	13999
 ESPOLI	espoli	espoli	lemma	18969
@@ -130,6 +137,7 @@ FORMI	formi	formi	lemma	13853
 FORMIGA	formiga	formiga	lemma	8774
 FORNERS	forners	forner	plural	12827
 FOSES	foses	fosa	plural	8292
+FRANEĿA	franel·la	franel·la	lemma	10688
 GALETS	galets	galet	plural	16488
 GARBES	garbes	garba	plural	15399
 GARLOPA	garlopa	garlopa	lemma	32548
@@ -155,6 +163,7 @@ IRAT	irat	irat	lemma	10977
 ISBA	isba	isba	lemma	26139
 ISOTOP	isòtop	isòtop	lemma	23645
 ISTME	istme	istme	lemma	14265
+IĿUSTRAR	il·lustrar	il·lustrar	lemma	8689
 JONC	jonc	jonc	lemma	13029
 JORN	jorn	jorn	lemma	10157
 LACAI	lacai	lacai	lemma	11325
@@ -200,6 +209,7 @@ NIMFA	nimfa	nimfa	lemma	11018
 NITIDA	nítida	nítid	femeni	11655
 NOVAL	noval	noval	lemma	21251
 NUNCI	nunci	nunci	lemma	11765
+NUĿA	nul·la	nul	femeni	9052
 NYAP	nyap	nyap	lemma	15127
 OBOE	oboè	oboè	lemma	19542
 OBRADOR	obrador	obrador	lemma	12058
@@ -258,6 +268,7 @@ REDO	redó	redó	lemma	20367
 REGS	regs	reg	plural	11999
 REMAR	remar	remar	lemma	10083
 REMETRE	remetre	remetre	lemma	9863
+RENAL	renal	renal	lemma	9459
 RENOU	renou	renou	lemma	8320
 RENS	rens	ren	plural	9729
 REPIC	repic	repic	lemma	8741
@@ -266,6 +277,7 @@ RESPIR	respir	respir	lemma	8109
 RIMES	rimes	rima	plural	12154
 RIOTA	riota	riota	lemma	11374
 RIVET	rivet	rivet	lemma	24705
+ROCOS	rocós	rocós	lemma	11500
 ROGENC	rogenc	rogenc	lemma	8692
 ROLL	roll	roll	lemma	13568
 ROMPENT	rompent	rompent	lemma	10601
@@ -323,6 +335,7 @@ TROC	troc	troc	lemma	25247
 TRONA	trona	trona	lemma	9093
 TROP	trop	trop	lemma	26011
 TUTA	tuta	tuta	lemma	24727
+URNA	urna	urna	lemma	10751
 URPA	urpa	urpa	lemma	10087
 UTER	úter	úter	lemma	9889
 VAST	vast	vast	lemma	8263
