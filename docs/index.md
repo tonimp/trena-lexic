@@ -28,6 +28,10 @@ A Ajustos pots triar l’hora del recordatori o desactivar-lo. El programa el ma
 
 Si tens cap dubte, problema o suggeriment, obre una incidència a [GitHub](https://github.com/tonimp/trena-lexic/issues) o fes servir «Informa d’un error» des del joc.
 
+## Premsa
+
+Text, fitxa i imatges del joc al [dossier de premsa](premsa/).
+
 ## Privadesa
 
 Trena no recull ni envia cap dada. Consulta la [política de privadesa](privadesa/).
